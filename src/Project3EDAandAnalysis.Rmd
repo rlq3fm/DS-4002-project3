@@ -1,0 +1,85 @@
+---
+title: "Project 3 EDA/Analysis"
+author: "Lauren Smith, Reese Quillian, Ann Sofo"
+date: "2023-04-11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Exploration of Charlottesville Crime Rates
+
+
+### Load in Packages
+```{r}
+library(tidyverse)
+```
+
+### Read in Data
+
+Our crime data comes from the government of Charlottesville’s open data website, which is updated nightly and includes data from 2018 to 2022. It contained variables such as Offense, IncidentID, BlockNumber, StreetName, Agency, DateReported, HourReported, and ReportingOfficer. For the purpose of our analysis we changed the DateReported and HourReported columns into Year, Month, Hour, Date, WeekDay, and NumCrimes (number of crimes by day). We also added a few columns to indicated whether the crime was one that we thought was one that was increasing or not. This cleaning of the dataset has already been done and the new csv file is what is read in in the code chunk.
+
+  * [Crime Data](https://opendata.charlottesville.org/datasets/crime-data/explore)
+
+```{r, message=FALSE}
+
+# dataset with all offenses from 2018 through 2022
+crime_wo_2023 <- read_csv("crime_wo_2023.csv")
+
+```
+
+
+### EDA
+
+Here we will look at a bar graph of the number of crimes reported per year.
+
+```{r}
+crimes_per_year <- crime_wo_2023 %>% group_by(Year) %>% summarize(TotalCrimes=n()) %>%
+  ggplot(aes(x = Year, y = TotalCrimes)) + geom_bar(stat="identity") +
+  ylab("Crimes Reported") + ggtitle("Total Crimes Reported in Charlottesville 2018-2022") + theme_classic() 
+crimes_per_year
+
+```
+
+
+Here is another visual of the above.
+
+```{r}
+crimes_per_year_line <- crime_wo_2023 %>% group_by(Year) %>% summarize(TotalCrimes=n()) %>%
+  ggplot(aes(x = Year, y = TotalCrimes, group=1)) + geom_line() + ylim(c(1500,6000)) +
+  ylab("Crimes Reported") + ggtitle("Total Crimes Reported in Charlottesville 2018-2022") + theme_classic() 
+crimes_per_year_line
+
+
+```
+
+Here we will look at a bar graph of the number of crimes reported per year but only the crimes that we think increased.
+
+```{r}
+crime_wo_2023$GroupA <- as.factor(crime_wo_2023$GroupA)
+crimes_interest_per_year <- crime_wo_2023 %>% filter(GroupA == 1) %>% group_by(Year) %>% 
+  summarize(CrimesReported = n()) %>% 
+  ggplot(aes(x = Year, y = CrimesReported)) + geom_bar(stat="identity") +
+  ylab("Crimes of Interest Reported") + ggtitle("Crimes of Interest Reported in Charlottesville 2018-2022") + theme_classic() 
+crimes_interest_per_year
+
+```
+
+
+
+Now we will look at a breakdown of the number of crimes reported per month in each year from 2018 to 2022.
+
+```{r message=FALSE}
+ crime_wo_2023$Month = factor(crime_wo_2023$Month,levels=c("January","February","March", "April","May","June","July","August","September", "October","November","December"),ordered=TRUE)
+ crime2023$Month = factor(crime2023$Month,levels=c("January","February","March", "April","May","June","July","August","September", "October","November","December"),ordered=TRUE)
+crimes_per_month <- crime_wo_2023 %>% group_by(Year, Month) %>% summarise(TotalCrimes=n()) %>%
+  ggplot(aes(x=Month, y=TotalCrimes)) + facet_wrap(~Year, nrow=5) + geom_bar(stat="identity") + ylab("Crimes Reported") + ggtitle("Crimes Reported in Charlottesville by Month 2018-2022") + theme_classic()
+crimes_per_month
+```
+
+
+
+
+
