@@ -9,7 +9,7 @@ This repository contains the files and information related to the third project 
 
 
 ### Overview
-There are multiple R markdown files in the src folder that contain all code used to clean our data (P3 Data Preparation.Rmd), perform exploratory data analysis (Project3EDA.Rmd), and build/evaluate our model (Project3Model.Rmd). These files can be opened with RStudio and also be knitted into an html document upon opening of the files in the application to produce a more readable format. 
+There are multiple R markdown files in the src folder that contain all code used to clean our data (Project3DataPrep.Rmd), perform exploratory data analysis (Project3EDA.Rmd), and build/evaluate our model (Project3Model.Rmd). These files can be opened with RStudio and also be knitted into an html document upon opening of the files in the application to produce a more readable format. 
 
 
 ### Code Usage
