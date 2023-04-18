@@ -46,10 +46,15 @@ Our crime data is provided by the government of Charlottesville’s open data we
 
 ## References
 [1] Private Member, “Crime Data.” Charlottesville Open Data, City of Charlottesville, 29 June 2017, https://opendata.charlottesville.org/datasets/charlottesville::crime-data/about. 
+
 [2] E. Howell, “Autocorrelation For Time Series Analysis,” Medium, Dec. 28, 2022. https://towardsdatascience.com/autocorrelation-for-time-series-analysis-86e68e631f77 
+
 [3] “Shootings are up in and around Charlottesville. Officials can’t explain why.,” The Daily Progress, Mar. 11, 2023. https://dailyprogress.com/news/shootings-are-up-in-and-around-charlottesville-officials-cant-explain-why/article_d1a82dca-bf89-11ed-a787-83a86877ca98.html 
+
 [4] sherlockj, “UVa Takes Steps to Protect Students from Increasing Crime in Charlottesville,” Bacon’s Rebellion, Mar. 25, 2023. https://www.baconsrebellion.com/wp/uva-takes-steps-to-protect-students-from-increasing-crime-in-charlottesville/ 
+
 [5] C. Shetty, “Time Series Models,” Medium, Sep. 22, 2020. https://towardsdatascience.com/time-series-models-d9266f8ac7b0 
-‌[6] “The Box-Jenkins Method,” NCSS Statistical Software, 2022. [Online]. Available: https://www.ncss.com/wp-content/themes/ncss/pdf/Procedures/NCSS/The_Box-Jenkins_Method.pdf 
+‌
+[6] “The Box-Jenkins Method,” NCSS Statistical Software, 2022. [Online]. Available: https://www.ncss.com/wp-content/themes/ncss/pdf/Procedures/NCSS/The_Box-Jenkins_Method.pdf 
 
 
