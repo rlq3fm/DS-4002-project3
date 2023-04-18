@@ -37,6 +37,11 @@ Our crime data is provided by the government of Charlottesville’s open data we
 
 
 ## Figures
+| Figure  | Takeaway  |
+|---|---|
+| Crimes Per Year Bar/Line Graphs | From these graphs we were able to observe that there was an increase in crimes reported from 2018 to 2019, a decrease in 2020 which could be related to the COVID-19 pandemic, and a steady increase in the years following. |
+| Crimes Per Month |  This figure shows the number of crimes reported in each month in Charlottesville from 2018 to 2022. We were interested in seeing if there was a change in rate by month of season and from a glance it does not seem that there is a consistent trend in each year. In 2018 and 2021, there seems to be an increase in crimes reported in the summer months while in 2019 and 2022 there looks like a higher rate in the spring and fall seasons with a dip in winter and summer. |
+| Crimes of Interest | We wanted to look at whether our crimes of interest to UVA students increased from 2018-2022 which, in figure 3, we can see a  decrease after 2021. However, there was still a significant increase from 2018 to 2021. |
 
 
 ## References
