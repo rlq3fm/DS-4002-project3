@@ -1,0 +1,501 @@
+---
+title: "Model Build"
+author: "Reese Quillian"
+date: "2023-04-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r, include=FALSE}
+library(mtsdi)
+library(forecast)
+library(ggplot2)
+library(lubridate)
+library(tidyverse)
+library(ggfortify)
+library(ggpubr)
+library(tseries)
+library(stringr)
+```
+
+
+```{r}
+# load libraries
+data_dir <- "C:/Users/Student/OneDrive - University of Virginia/Documents/Data Science/DS-4002-project3/"
+src_dir <- "C:/Users/Student/OneDrive - University of Virginia/Documents/Data Science/DS-4002-project3/"
+
+setwd(data_dir)
+train <- read_csv("data/crime_wo_2023.csv")
+test <- read_csv("data/crime_2023.csv")
+setwd(src_dir)
+```
+
+# Total Crime
+
+```{r}
+# remove first column with row numbers
+train <- train[,-1]
+test <- test[,-1]
+
+str(train)
+str(test)
+
+# need to group by date
+train_ts <- train %>% group_by(Date) %>% summarize(sum(NumCrimes))
+colnames(train_ts)[2]="NumCrimes"
+
+test_ts <- test %>% group_by(Date) %>% summarize(sum(NumCrimes))
+colnames(test_ts)[2]="NumCrimes"
+
+# time series 
+##use the ts() command to get a time series
+crime.ts<-ts(train_ts$NumCrimes)
+
+
+autoplot(crime.ts) # looks good
+```
+
+```{r}
+# Seasonality
+
+# Get the periodogram for crime.ts
+pg.crime <- spec.pgram(crime.ts,spans=9,demean=T,log='no')
+
+spec.crime <- data.frame(freq=pg.crime$freq, spec=pg.crime$spec)
+
+ggplot(spec.crime) + geom_line(aes(x=freq,y=spec)) + 
+  ggtitle("Smooth Periodogram of Charlottesville Crime")
+
+
+# find periods of peaks
+# sort spectrum from largest to smallest and find index
+sorted.spec <- sort(pg.crime$spec, decreasing=T, index.return=T)
+
+# corresponding periods (omegas = frequences, Ts = periods)
+sorted.omegas <- pg.crime$freq[sorted.spec$ix]
+sorted.Ts <- 1/pg.crime$freq[sorted.spec$ix]
+
+# look at first 20
+sorted.omegas[1:20]
+sorted.Ts[1:20]
+
+# some yearly, some every 6 months, some monthly, some weekly (seasonality)
+```
+
+```{r}
+# modeling the trend
+# Build a new model, temp.trend which predicts crime.ts based on the time variable
+crime.trend<-lm(crime.ts ~ train_ts$Date)
+
+summary(crime.trend) # time is significant
+
+ggplot(train_ts, aes(x=Date,y=NumCrimes)) + geom_smooth() + theme_classic()
+
+# Plot model
+ggplot(train_ts, aes(x=Date,y=NumCrimes)) + geom_line() +
+  stat_smooth(method="lm",col="red") + xlab("") + ylab("Number of Crimes")
+```
+
+
+```{r}
+# Remove march 2020 - march 2021 (COVID) 
+train_ts_no2020 <- train_ts %>% filter(!(Date>="2020-03-01" & Date<="2021-03-01"))
+
+train_ts_no2020$t<-1:nrow(train_ts_no2020)
+```
+
+```{r}
+# redo trend model
+# make it a time series
+crime.ts1 <- ts(train_ts_no2020$NumCrimes) 
+
+# first checking seasonality
+# Get the periodogram for crime.ts
+pg.crime1 <- spec.pgram(crime.ts1,spans=9,demean=T,log='no')
+
+spec.crime1 <- data.frame(freq=pg.crime1$freq, spec=pg.crime1$spec)
+
+ggplot(spec.crime1) + geom_line(aes(x=freq,y=spec)) + 
+  ggtitle("Smooth Periodogram of Charlottesville Crime")
+# peaks are more obvious now
+
+# sort spectrum from largest to smallest and find index
+sorted.spec1 <- sort(pg.crime1$spec, decreasing=T, index.return=T)
+
+# corresponding periods (omegas = frequences, Ts = periods)
+sorted.omegas1 <- pg.crime1$freq[sorted.spec1$ix]
+sorted.Ts1 <- 1/pg.crime1$freq[sorted.spec1$ix]
+
+# look at first 20
+sorted.omegas1[1:20]
+sorted.Ts1[1:20]
+
+# we will add yearly seasonality to the trend model - a period of 365 days
+```
+
+```{r}
+# modeling the trend without March 2020-March 2021
+# Build a new model, temp.trend which predicts crime.ts based on the time variable
+crime.trend1<-lm(crime.ts1 ~ train_ts_no2020$t)
+
+summary(crime.trend1) # time is significant
+# positive coefficient on time = increasing trend
+
+# Plot model
+ggplot(train_ts_no2020, aes(x=t,y=NumCrimes)) + geom_line() +
+  stat_smooth(method="lm",col="red") + xlab("") + ylab("Number of Crimes")
+```
+
+
+```{r}
+# adding (bi-annual) seasonality
+t<- train_ts_no2020$t
+
+crime.trend.seasonal <- lm(crime.ts1 ~ t + sin(2*pi*t/180) + cos(2*pi*t/180))
+summary(crime.trend.seasonal) # seasonality & trend significant
+    
+# Plot temp.trend.seasonal model
+ggplot(train_ts_no2020, aes(x=t,y=NumCrimes)) + geom_line() + 
+  geom_line(aes(x=t,y=crime.trend.seasonal$fitted.values),color="#4a8cff",size=1.5) +
+  xlab("") + ylab("Number of Crimes")+ theme_classic()
+```
+
+
+## Modeling total crime: AR, MA, AR(I)MA
+
+First, we need to look at the residuals:
+
+```{r}
+# Get the residuals from the trend+season model above and store in e.ts:
+e.ts.crime <- ts(crime.trend.seasonal$residuals)
+
+# Plot the residuals for the temp.trend model
+autoplot(e.ts.crime)
+
+```
+
+```{r}
+# ACF and PACF
+# autocorrelation (ACF) of the residuals of crime.trend
+crime.acf <- ggAcf(e.ts.crime)
+
+# partial autocorrelation (PACF) of the residuals of crime.trend
+crime.pacf <- ggPacf(e.ts.crime)
+
+# Plot acf and pacf side by side for easier examination
+ggarrange(crime.acf,crime.pacf,nrow=2,ncol=1)
+
+# sinusoidal decay in both ACF & PCF -> ARMA
+# ACF significant lags: 1,2,3,4,7,11....
+# PACF significant lags: 1,2,7,14,15
+```
+
+```{r}
+# first order difference acf/pacf
+# Do we need to consider a first order difference of our residuals?
+diff.acf <- ggAcf(diff(e.ts.crime))
+diff.pacf <- ggPacf(diff(e.ts.crime))
+ggarrange(diff.acf,diff.pacf,nrow=2,ncol=1)
+
+# No
+```
+
+### AR
+
+```{r}
+# ar(2) because pacf cuts off after 2 lags
+crime.ar2 <- arima(e.ts.crime, order=c(2,0,0), include.mean=FALSE)
+summary(crime.ar2)
+```
+
+### MA
+
+```{r}
+# MA(4) because the acf cuts off after 4 lags
+crime.ma4 <- arima(e.ts.crime, order=c(0,0,4), include.mean=FALSE)
+summary(crime.ma4)
+```
+
+### ARMA
+
+```{r}
+# arma(2,4) p=2, q=4
+crime.arma24 <- arima(e.ts.crime, order=c(2,0,4), include.mean=FALSE)
+summary(crime.arma24)
+```
+
+### ARIMA
+
+Automatic selection
+
+```{r}
+crime.auto <- auto.arima(e.ts.crime,approximation=FALSE)
+summary(crime.auto)
+# best AIC
+# this is an ARMA(1,3) model
+```
+
+### Diagnostics
+
+We will look at the diagnostics of the above models to determine which to use to forecast.
+Based on AIC, we have:
+
+ARMA(3,1) > ARMA (2,4) > AR(2) > MA(4) 
+
+```{r}
+# BIC
+BIC(crime.ar2) 
+BIC(crime.ma4)
+BIC(crime.arma24)
+BIC(crime.auto)
+
+# ARMA(1,3) > AR(2) > ARMA(2,4) > MA(4)
+```
+
+```{r}
+# residuals v fit
+model1 = ggplot() + geom_point(aes(x=fitted(crime.ar2), y=crime.ar2$residuals)) + ggtitle("AR2")
+
+model2 = ggplot() + geom_point(aes(x=fitted(crime.ma4), y=crime.ma4$residuals)) + ggtitle("MA4")
+
+model3 = ggplot() + geom_point(aes(x=fitted(crime.arma24), y=crime.arma24$residuals)) + ggtitle("ARMA24")
+
+model4 = ggplot() + geom_point(aes(x=fitted(crime.auto), y=crime.auto$residuals)) + ggtitle("Auto")
+
+ggarrange(model1, model2, model3, model4, ncol=2, nrow=2)
+```
+
+```{r}
+# assess normality of residuals
+model1 = qplot(sample=crime.ar2$residuals) + stat_qq_line(color="red") + ggtitle("AR2")
+model2 = qplot(sample=crime.ma4$residuals) + stat_qq_line(color="red") + ggtitle("MA4")
+model3 = qplot(sample=crime.arma24$residuals) + stat_qq_line(color="red") + ggtitle("ARMA24")
+model4 = qplot(sample=crime.auto$residuals) + stat_qq_line(color="red") + ggtitle("Auto")
+
+ggarrange(model1, model2, model3, model4, ncol=2, nrow=2)
+```
+
+All 4 perform about the same on diagnostics - based on AIC and BIC we will forecast using the automatically selected model - ARMA 1,3
+
+## Forecasting
+
+```{r}
+# comparing with actual 2023 data
+test_ts$t<-1:nrow(test_ts)
+
+# 95 days in 2023 data (test_ts)
+time.2023 <- 1:nrow(test_ts)
+
+# 2023 time series
+ts.2023 <- ts(test_ts$NumCrimes)
+
+# predictions from crime.auto
+E_Y.pred <- predict(crime.trend.seasonal, newdata=test_ts) # model
+e_t.pred <- forecast(crime.auto, h=95) # residuals; period = 95 days
+prediction.2023 <- E_Y.pred + e_t.pred$mean
+```
+
+
+```{r}
+# MSE:
+mean((prediction.2023-test_ts$NumCrimes)^2)
+```
+
+```{r}
+# Plot actual 2023 crimes vs predicted crimes
+# with ggplot
+model1.predictions <- ggplot() + 
+  geom_line(aes(x=time.2023,y=test_ts$NumCrimes),color="#003ba3") + 
+  geom_line(aes(x=time.2023,y=prediction.2023),color="#4a8cff") + 
+  geom_line(aes(x=time.2023,y=E_Y.pred + e_t.pred$lower[,2]),
+            color="#4a8cff",linetype="dashed") + 
+  geom_line(aes(x=time.2023,y=E_Y.pred + e_t.pred$upper[,2]),
+            color="#4a8cff",linetype="dashed") +
+  xlab("") + ylab("Number of Crimes") + 
+  ggtitle("Crime Model + ARIMA of Residuals on 2023 Data") + 
+  theme_classic()
+model1.predictions
+```
+
+Model doesn't do a great job of predicting daily crime
+
+What about for specific crimes? We want to look at gun violence.
+
+Since there aren't as many of these crimes on a daily basis, we will look at monthly data.
+
+# Shots fired
+
+```{r}
+# need to group by date
+shots_ts <- train %>% group_by(Date) %>% summarize(sum(ShotsFired_IllegalHunting))
+colnames(shots_ts)[2]="Total"
+
+shots_ts$month <- format(as.Date(shots_ts$Date, format="%Y-%m-%d"),"%m")
+shots_ts$year <- format(as.Date(shots_ts$Date, format="%Y-%m-%d"),"%Y")
+
+shots_ts$month <- paste(shots_ts$year, shots_ts$month,sep="-")
+shots_ts <- shots_ts %>% group_by(month) %>% summarize(sum(Total))
+
+colnames(shots_ts)[2]="MonthTotal"
+
+str(shots_ts)
+
+# test data frame
+shots_test_ts <- data.frame(t=c(1:5))
+
+month = shots_ts[53:57,1]
+month_total = shots_ts[53:57,2]
+shots_test_ts$month = month
+shots_test_ts$MonthTotal = month_total
+
+colnames(shots_test_ts)=c("t","month","MonthTotal")
+
+
+# now adding 2023 data to test data frame
+# first have to format it
+shots_test_ts1 <- test %>% group_by(Date) %>% summarize(sum(ShotsFired_IllegalHunting))
+colnames(shots_test_ts1)[2]="Total"
+
+shots_test_ts1$month <- format(as.Date(shots_test_ts1$Date, format="%Y-%m-%d"),"%m")
+
+shots_test_ts1 <- shots_test_ts1 %>% group_by(month) %>% summarize(sum(Total))
+
+colnames(shots_test_ts1)[2]="MonthTotal"
+
+shots_test_ts1$t <- 1:nrow(shots_test_ts1)
+
+# add jan, feb, march data
+new_df <- rbind(shots_test_ts, shots_test_ts1)
+
+new_df[6,1:2] <- c(6,"2023-01")
+new_df[7,1:2] <- c(7,"2023-02")
+new_df[8,1:2] <- c(8,"2023-03")
+
+new_df<- new_df[1:8,]
+
+View(new_df)
+
+# reorder to match training data: month, MonthTotal, t
+new_df <- new_df[,c("month","MonthTotal","t")]
+
+str(new_df)
+new_df$t <- as.numeric(new_df$t)
+
+# removing august - december ( this is going to be in our test data )
+shots_ts <- shots_ts[1:52,]
+
+colnames(shots_test_ts)
+
+
+shots_ts$t <- 1:nrow(shots_ts)
+# time series 
+##use the ts() command to get a time series
+shots.ts<-ts(shots_ts$MonthTotal)
+
+
+autoplot(shots.ts) # no need to take out covid year for this
+
+ggplot(shots_ts, aes(x=t,y=MonthTotal)) + geom_smooth() + theme_classic()
+```
+
+
+```{r}
+# Seasonality
+
+# Get the periodogram for crime.ts
+pg.shots <- spec.pgram(shots.ts,spans=9,demean=T,log='no')
+
+spec.shots <- data.frame(freq=pg.shots$freq, spec=pg.shots$spec)
+
+# find periods of peaks
+# sort spectrum from largest to smallest and find index
+sorted.spec <- sort(pg.shots$spec, decreasing=T, index.return=T)
+
+# corresponding periods (omegas = frequences, Ts = periods)
+sorted.omegas <- pg.shots$freq[sorted.spec$ix]
+sorted.Ts <- 1/pg.shots$freq[sorted.spec$ix]
+
+# look at first 20
+sorted.omegas[1:20]
+sorted.Ts[1:20]
+
+# period of 12 months
+```
+
+```{r}
+# just trend
+shots.trend<-lm(shots.ts ~ shots_ts$t)
+
+summary(shots.trend) # trend is not significant
+
+# Plot temp.trend model
+ggplot(shots_ts, aes(x=t,y=MonthTotal)) + geom_line() +
+  stat_smooth(method="lm",col="red") + xlab("") + ylab("Number of Shots Fired Crimes")
+```
+
+```{r}
+# add seasonality
+shots.seasonal <- lm(ts(MonthTotal) ~ t + sin(2*pi*t/12) + cos(2*pi*t/12),shots_ts)
+summary(shots.seasonal) # seasonality & trend significant
+    
+# Plot temp.trend.seasonal model
+ggplot(shots_ts, aes(x=t,y=MonthTotal)) + geom_line() + 
+  geom_line(aes(x=t,y=shots.seasonal$fitted.values),color="#4a8cff") +
+  xlab("") + ylab("Number of Shots Fired Crimes") + 
+  theme_classic()
+```
+
+```{r}
+# residuals for ar, ma, arma models
+e.ts.shots <- ts(shots.seasonal$residuals)
+
+# Plot the residuals
+autoplot(e.ts.shots)
+
+```
+
+```{r}
+# ACF and PACF
+# autocorrelation (ACF) of the residuals
+shots.acf <- ggAcf(e.ts.shots)
+
+# partial autocorrelation (PACF) of the residuals
+shots.pacf <- ggPacf(e.ts.shots)
+
+# Plot acf and pacf side by side for easier examination
+ggarrange(shots.acf,shots.pacf,nrow=2,ncol=1)
+```
+
+```{r}
+# straight to automatic model selection
+shots.auto <- auto.arima(e.ts.shots,approximation=FALSE)
+summary(shots.auto)
+```
+
+This means that the trend + seasonality alone are enough to model the number of shots fired crimes; there are no significant lags shown in the ACF + PACF and there are no moving average or autoregressive components.
+
+## Predictions
+
+
+
+
+```{r}
+# comparing with actual 2023 data
+# predictions from crime.auto
+pred <- predict(shots.seasonal, newdata=new_df) # model
+
+results <- data.frame(month = c(1:8))
+results <- results %>% mutate(actual = new_df$MonthTotal$MonthTotal,predicted = pred)
+results
+```
+
+
+```{r}
+# MSE:
+mean((pred-new_df$MonthTotal$MonthTotal)^2)
+```
+
