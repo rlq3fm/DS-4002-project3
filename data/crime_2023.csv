@@ -1,0 +1,1303 @@
+"","Offense","Date","Year","Month","Hour","Weekday","GroupA","Assault","ShotsFired_IllegalHunting","Suspicious_Persons_Activity","GroupB","NumCrimes"
+"1","Shots Fired/Illegal Hunting","2023-04-05","2023","April","01","Fri",1,0,1,0,0,2
+"2","Assault Simple","2023-04-05","2023","April","00","Fri",0,0,0,0,1,2
+"3","Hit and Run","2023-04-04","2023","April","20","Thurs",0,0,0,0,1,6
+"4","Misc - Criminal Call","2023-04-04","2023","April","19","Thurs",0,0,0,0,1,6
+"5","Hit and Run","2023-04-04","2023","April","19","Thurs",0,0,0,0,1,6
+"6","Assault Aggravated","2023-04-04","2023","April","14","Thurs",0,0,0,0,1,6
+"7","Driving Under the Influence","2023-04-04","2023","April","05","Thurs",0,0,0,0,1,6
+"8","Domestic Disturbance","2023-04-04","2023","April","04","Thurs",0,0,0,0,1,6
+"9","Harassment","2023-04-03","2023","April","22","Wed",0,0,0,0,1,8
+"10","Fraud-impersonation","2023-04-03","2023","April","19","Wed",0,0,0,0,1,8
+"11","Harassment","2023-04-03","2023","April","16","Wed",0,0,0,0,1,8
+"12","Fraud-false pretense","2023-04-03","2023","April","14","Wed",0,0,0,0,1,8
+"13","Larceny - Shoplifitng","2023-04-03","2023","April","13","Wed",0,0,0,0,1,8
+"14","Assault Simple","2023-04-03","2023","April","11","Wed",0,0,0,0,1,8
+"15","Assist Citizen - Mental/TDO/ECO","2023-04-03","2023","April","04","Wed",0,0,0,0,1,8
+"16","Domestic Disturbance","2023-04-03","2023","April","00","Wed",0,0,0,0,1,8
+"17","Warrant Service","2023-04-02","2023","April","22","Tues",0,0,0,0,1,10
+"18","Hit and Run","2023-04-02","2023","April","21","Tues",0,0,0,0,1,10
+"19","Vandalism","2023-04-02","2023","April","17","Tues",0,0,0,0,1,10
+"20","Fraud-false pretense","2023-04-02","2023","April","16","Tues",0,0,0,0,1,10
+"21","Suspicious Activity","2023-04-02","2023","April","13","Tues",0,0,0,0,1,10
+"22","Assist Citizen - Mental/TDO/ECO","2023-04-02","2023","April","07","Tues",0,0,0,0,1,10
+"23","Assist Citizen - Mental/TDO/ECO","2023-04-02","2023","April","05","Tues",0,0,0,0,1,10
+"24","Assist Citizen - Mental/TDO/ECO","2023-04-02","2023","April","04","Tues",0,0,0,0,1,10
+"25","Assist Agency - Other","2023-04-02","2023","April","04","Tues",0,0,0,0,1,10
+"26","Assault Simple","2023-04-02","2023","April","04","Tues",0,0,0,0,1,10
+"27","Larceny - Theft from Building","2023-04-01","2023","April","21","Mon",0,0,0,0,1,16
+"28","Larceny - Theft from Building","2023-04-01","2023","April","21","Mon",0,0,0,0,1,16
+"29","Assist Citizen - Misc","2023-04-01","2023","April","20","Mon",0,0,0,0,1,16
+"30","Missing Person-juvenile","2023-04-01","2023","April","20","Mon",0,0,0,0,1,16
+"31","Assist Citizen - Mental/TDO/ECO","2023-04-01","2023","April","20","Mon",0,0,0,0,1,16
+"32","Assault Simple","2023-04-01","2023","April","19","Mon",0,0,0,0,1,16
+"33","Assault Simple","2023-04-01","2023","April","19","Mon",0,0,0,0,1,16
+"34","Hit and Run","2023-04-01","2023","April","19","Mon",0,0,0,0,1,16
+"35","Larceny - Theft from Building","2023-04-01","2023","April","18","Mon",0,0,0,0,1,16
+"36","Larceny - All Other","2023-04-01","2023","April","16","Mon",0,0,0,0,1,16
+"37","Larceny - Shoplifitng","2023-04-01","2023","April","15","Mon",0,0,0,0,1,16
+"38","Hit and Run","2023-04-01","2023","April","13","Mon",0,0,0,0,1,16
+"39","Hit and Run","2023-04-01","2023","April","12","Mon",0,0,0,0,1,16
+"40","Weapons Violations","2023-04-01","2023","April","02","Mon",0,0,0,0,1,16
+"41","Vandalism","2023-04-01","2023","April","01","Mon",0,0,0,0,1,16
+"42","Assault Simple","2023-04-01","2023","April","00","Mon",0,0,0,0,1,16
+"43","Larceny - Shoplifitng","2023-03-31","2023","March","21","Sun",0,0,0,0,1,16
+"44","Hit and Run","2023-03-31","2023","March","21","Sun",0,0,0,0,1,16
+"45","Hit and Run","2023-03-31","2023","March","21","Sun",0,0,0,0,1,16
+"46","Larceny - All Other","2023-03-31","2023","March","20","Sun",0,0,0,0,1,16
+"47","Assault Simple","2023-03-31","2023","March","19","Sun",0,0,0,0,1,16
+"48","Larceny - From Motor Vehicle","2023-03-31","2023","March","18","Sun",0,0,0,0,1,16
+"49","Fraud-impersonation","2023-03-31","2023","March","17","Sun",0,0,0,0,1,16
+"50","Fraud-wire fraud","2023-03-31","2023","March","16","Sun",0,0,0,0,1,16
+"51","Hit and Run","2023-03-31","2023","March","15","Sun",0,0,0,0,1,16
+"52","Assault Simple","2023-03-31","2023","March","14","Sun",0,0,0,0,1,16
+"53","Vandalism","2023-03-31","2023","March","12","Sun",0,0,0,0,1,16
+"54","Assist Citizen - Mental/TDO/ECO","2023-03-31","2023","March","07","Sun",0,0,0,0,1,16
+"55","Driving Under the Influence","2023-03-31","2023","March","02","Sun",0,0,0,0,1,16
+"56","Assist Citizen - Mental/TDO/ECO","2023-03-31","2023","March","02","Sun",0,0,0,0,1,16
+"57","Assault Simple","2023-03-31","2023","March","01","Sun",0,0,0,0,1,16
+"58","Weapons Violations","2023-03-31","2023","March","01","Sun",0,0,0,0,1,16
+"59","Assist Citizen - Mental/TDO/ECO","2023-03-30","2023","March","23","Sat",0,0,0,0,1,18
+"60","Fraud-wire fraud","2023-03-30","2023","March","23","Sat",0,0,0,0,1,18
+"61","Vandalism","2023-03-30","2023","March","21","Sat",0,0,0,0,1,18
+"62","Sex Offense","2023-03-30","2023","March","19","Sat",0,0,0,0,1,18
+"63","Assist Citizen - Mental/TDO/ECO","2023-03-30","2023","March","16","Sat",0,0,0,0,1,18
+"64","Hit and Run","2023-03-30","2023","March","16","Sat",0,0,0,0,1,18
+"65","Assist Citizen - Mental/TDO/ECO","2023-03-30","2023","March","15","Sat",0,0,0,0,1,18
+"66","Assist Citizen - Welfare Check","2023-03-30","2023","March","15","Sat",0,0,0,0,1,18
+"67","Animal Complaint","2023-03-30","2023","March","14","Sat",0,0,0,0,1,18
+"68","Hit and Run","2023-03-30","2023","March","14","Sat",0,0,0,0,1,18
+"69","Hit and Run","2023-03-30","2023","March","14","Sat",0,0,0,0,1,18
+"70","Suspicious Activity","2023-03-30","2023","March","09","Sat",0,0,0,0,1,18
+"71","Suspicious Activity","2023-03-30","2023","March","05","Sat",0,0,0,0,1,18
+"72","Suspicious Person","2023-03-30","2023","March","05","Sat",0,0,0,0,1,18
+"73","Suspicious Person","2023-03-30","2023","March","05","Sat",0,0,0,0,1,18
+"74","Stalking","2023-03-30","2023","March","03","Sat",0,0,0,0,1,18
+"75","Unauthorized Use of Motor Veh","2023-03-30","2023","March","01","Sat",0,0,0,0,1,18
+"76","Lost/FoundProperty","2023-03-30","2023","March","00","Sat",0,0,0,0,1,18
+"77","Larceny - Theft from Building","2023-03-29","2023","March","20","Fri",0,0,0,0,1,13
+"78","Larceny - All Other","2023-03-29","2023","March","19","Fri",0,0,0,0,1,13
+"79","Accident w/Injuries","2023-03-29","2023","March","19","Fri",0,0,0,0,1,13
+"80","Suspicious Activity","2023-03-29","2023","March","18","Fri",0,0,0,0,1,13
+"81","Larceny - From Motor Vehicle","2023-03-29","2023","March","17","Fri",0,0,0,0,1,13
+"82","Hit and Run","2023-03-29","2023","March","16","Fri",0,0,0,0,1,13
+"83","Assist Citizen - Mental/TDO/ECO","2023-03-29","2023","March","16","Fri",0,0,0,0,1,13
+"84","Pornography","2023-03-29","2023","March","15","Fri",0,0,0,0,1,13
+"85","Drunkeness DIP","2023-03-29","2023","March","06","Fri",0,0,0,0,1,13
+"86","Stolen Property Offenses","2023-03-29","2023","March","04","Fri",0,0,0,0,1,13
+"87","Assist Citizen - Mental/TDO/ECO","2023-03-29","2023","March","03","Fri",0,0,0,0,1,13
+"88","Assist Citizen - Mental/TDO/ECO","2023-03-29","2023","March","01","Fri",0,0,0,0,1,13
+"89","Larceny - All Other","2023-03-29","2023","March","00","Fri",0,0,0,0,1,13
+"90","Warrant Service","2023-03-28","2023","March","23","Thurs",0,0,0,0,1,14
+"91","Fraud-credit card","2023-03-28","2023","March","23","Thurs",0,0,0,0,1,14
+"92","Vandalism","2023-03-28","2023","March","22","Thurs",0,0,0,0,1,14
+"93","Assault Aggravated","2023-03-28","2023","March","21","Thurs",0,0,0,0,1,14
+"94","Harassment","2023-03-28","2023","March","17","Thurs",0,0,0,0,1,14
+"95","Lost/FoundProperty","2023-03-28","2023","March","17","Thurs",0,0,0,0,1,14
+"96","Assault Intimidation","2023-03-28","2023","March","15","Thurs",0,0,0,0,1,14
+"97","Burglary","2023-03-28","2023","March","15","Thurs",0,0,0,0,1,14
+"98","Family Offense - Non-Violent","2023-03-28","2023","March","15","Thurs",0,0,0,0,1,14
+"99","Drug/Narcotics Violation","2023-03-28","2023","March","13","Thurs",0,0,0,0,1,14
+"100","Larceny - All Other","2023-03-28","2023","March","04","Thurs",0,0,0,0,1,14
+"101","Fraud-false pretense","2023-03-28","2023","March","02","Thurs",0,0,0,0,1,14
+"102","Lost/FoundProperty","2023-03-28","2023","March","01","Thurs",0,0,0,0,1,14
+"103","Disorderly Conduct","2023-03-28","2023","March","01","Thurs",0,0,0,0,1,14
+"104","Fraud-impersonation","2023-03-27","2023","March","22","Wed",0,0,0,0,1,21
+"105","Robbery - Armed","2023-03-27","2023","March","22","Wed",0,0,0,0,1,21
+"106","Assist Citizen - Mental/TDO/ECO","2023-03-27","2023","March","21","Wed",0,0,0,0,1,21
+"107","Assault Intimidation","2023-03-27","2023","March","20","Wed",0,0,0,0,1,21
+"108","Suspicious Activity","2023-03-27","2023","March","20","Wed",0,0,0,0,1,21
+"109","Hit and Run","2023-03-27","2023","March","18","Wed",0,0,0,0,1,21
+"110","Vandalism","2023-03-27","2023","March","18","Wed",0,0,0,0,1,21
+"111","Vandalism","2023-03-27","2023","March","18","Wed",0,0,0,0,1,21
+"112","Fraud-false pretense","2023-03-27","2023","March","16","Wed",0,0,0,0,1,21
+"113","Phone Calls - Annoying","2023-03-27","2023","March","16","Wed",0,0,0,0,1,21
+"114","Suspicious Activity","2023-03-27","2023","March","15","Wed",0,0,0,0,1,21
+"115","Fraud-wire fraud","2023-03-27","2023","March","15","Wed",0,0,0,0,1,21
+"116","Comm Relations Initiative - CRI","2023-03-27","2023","March","15","Wed",0,0,0,0,1,21
+"117","Larceny - Theft from Building","2023-03-27","2023","March","14","Wed",0,0,0,0,1,21
+"118","Misc - Criminal Call","2023-03-27","2023","March","13","Wed",0,0,0,0,1,21
+"119","Burglary","2023-03-27","2023","March","06","Wed",0,0,0,0,1,21
+"120","Assist Citizen - Mental/TDO/ECO","2023-03-27","2023","March","03","Wed",0,0,0,0,1,21
+"121","Disorderly Conduct","2023-03-27","2023","March","02","Wed",0,0,0,0,1,21
+"122","Suspicious Activity","2023-03-27","2023","March","01","Wed",0,0,0,0,1,21
+"123","Larceny - Shoplifitng","2023-03-27","2023","March","00","Wed",0,0,0,0,1,21
+"124","Assault Aggravated","2023-03-27","2023","March","00","Wed",0,0,0,0,1,21
+"125","Driving Under the Influence","2023-03-26","2023","March","23","Tues",0,0,0,0,1,13
+"126","Larceny - Of Veh Parts/Access","2023-03-26","2023","March","23","Tues",0,0,0,0,1,13
+"127","Hit and Run","2023-03-26","2023","March","23","Tues",0,0,0,0,1,13
+"128","Larceny - From Motor Vehicle","2023-03-26","2023","March","19","Tues",0,0,0,0,1,13
+"129","Hit and Run","2023-03-26","2023","March","17","Tues",0,0,0,0,1,13
+"130","Suspicious Activity","2023-03-26","2023","March","16","Tues",0,0,0,0,1,13
+"131","Assault Aggravated","2023-03-26","2023","March","16","Tues",0,0,0,0,1,13
+"132","Lost/FoundProperty","2023-03-26","2023","March","15","Tues",0,0,0,0,1,13
+"133","Assault Simple","2023-03-26","2023","March","13","Tues",0,0,0,0,1,13
+"134","Larceny - Shoplifitng","2023-03-26","2023","March","08","Tues",0,0,0,0,1,13
+"135","Driving Under the Influence","2023-03-26","2023","March","04","Tues",0,0,0,0,1,13
+"136","Hit and Run","2023-03-26","2023","March","02","Tues",0,0,0,0,1,13
+"137","Assist Citizen - Mental/TDO/ECO","2023-03-26","2023","March","00","Tues",0,0,0,0,1,13
+"138","Death Investigation - DOA","2023-03-25","2023","March","23","Mon",0,0,0,0,1,13
+"139","Larceny - Shoplifitng","2023-03-25","2023","March","19","Mon",0,0,0,0,1,13
+"140","Assault Intimidation","2023-03-25","2023","March","19","Mon",0,0,0,0,1,13
+"141","Assist Citizen - Mental/TDO/ECO","2023-03-25","2023","March","18","Mon",0,0,0,0,1,13
+"142","Suspicious Activity","2023-03-25","2023","March","18","Mon",0,0,0,0,1,13
+"143","Domestic Disturbance","2023-03-25","2023","March","07","Mon",0,0,0,0,1,13
+"144","Driving Under the Influence","2023-03-25","2023","March","06","Mon",0,0,0,0,1,13
+"145","Assist Citizen - Mental/TDO/ECO","2023-03-25","2023","March","05","Mon",0,0,0,0,1,13
+"146","Suspicious Activity","2023-03-25","2023","March","02","Mon",0,0,0,0,1,13
+"147","Driving Under the Influence","2023-03-25","2023","March","01","Mon",0,0,0,0,1,13
+"148","Motor Vehicle Theft","2023-03-25","2023","March","01","Mon",0,0,0,0,1,13
+"149","Assault Simple","2023-03-25","2023","March","00","Mon",0,0,0,0,1,13
+"150","Larceny - From Motor Vehicle","2023-03-25","2023","March","00","Mon",0,0,0,0,1,13
+"151","Motor Vehicle Theft","2023-03-24","2023","March","23","Sun",0,0,0,0,1,19
+"152","Vandalism","2023-03-24","2023","March","23","Sun",0,0,0,0,1,19
+"153","Larceny - Theft from Building","2023-03-24","2023","March","20","Sun",0,0,0,0,1,19
+"154","Larceny - Theft from Building","2023-03-24","2023","March","19","Sun",0,0,0,0,1,19
+"155","Accident - w/out Injuries","2023-03-24","2023","March","18","Sun",0,0,0,0,1,19
+"156","Assault Simple","2023-03-24","2023","March","17","Sun",0,0,0,0,1,19
+"157","Harassment","2023-03-24","2023","March","16","Sun",0,0,0,0,1,19
+"158","Assault Intimidation","2023-03-24","2023","March","16","Sun",0,0,0,0,1,19
+"159","Trespass","2023-03-24","2023","March","14","Sun",0,0,0,0,1,19
+"160","Larceny - From Motor Vehicle","2023-03-24","2023","March","13","Sun",0,0,0,0,1,19
+"161","Hit and Run","2023-03-24","2023","March","12","Sun",0,0,0,0,1,19
+"162","Animal Complaint","2023-03-24","2023","March","11","Sun",0,0,0,0,1,19
+"163","Trespass","2023-03-24","2023","March","10","Sun",0,0,0,0,1,19
+"164","Larceny - Shoplifitng","2023-03-24","2023","March","08","Sun",0,0,0,0,1,19
+"165","Assault Aggravated","2023-03-24","2023","March","05","Sun",0,0,0,0,1,19
+"166","Missing Person-juvenile","2023-03-24","2023","March","03","Sun",0,0,0,0,1,19
+"167","Assist Citizen - Mental/TDO/ECO","2023-03-24","2023","March","02","Sun",0,0,0,0,1,19
+"168","Fraud-impersonation","2023-03-24","2023","March","02","Sun",0,0,0,0,1,19
+"169","Larceny - Shoplifitng","2023-03-24","2023","March","01","Sun",0,0,0,0,1,19
+"170","Misc - Criminal Call","2023-03-23","2023","March","23","Sat",0,0,0,0,1,18
+"171","Lost/FoundProperty","2023-03-23","2023","March","23","Sat",0,0,0,0,1,18
+"172","Assault Simple","2023-03-23","2023","March","22","Sat",0,0,0,0,1,18
+"173","Larceny - Theft from Building","2023-03-23","2023","March","21","Sat",0,0,0,0,1,18
+"174","Vandalism","2023-03-23","2023","March","20","Sat",0,0,0,0,1,18
+"175","Driving Under the Influence","2023-03-23","2023","March","20","Sat",0,0,0,0,1,18
+"176","Fraud-wire fraud","2023-03-23","2023","March","19","Sat",0,0,0,0,1,18
+"177","Larceny - All Other","2023-03-23","2023","March","19","Sat",0,0,0,0,1,18
+"178","Suspicious Activity","2023-03-23","2023","March","19","Sat",0,0,0,0,1,18
+"179","Suspicious Person","2023-03-23","2023","March","14","Sat",0,0,0,0,1,18
+"180","Larceny - Theft from Building","2023-03-23","2023","March","12","Sat",0,0,0,0,1,18
+"181","Assist Citizen - Misc","2023-03-23","2023","March","12","Sat",0,0,0,0,1,18
+"182","Vandalism","2023-03-23","2023","March","12","Sat",0,0,0,0,1,18
+"183","Motor Vehicle Theft","2023-03-23","2023","March","11","Sat",0,0,0,0,1,18
+"184","Assault Simple","2023-03-23","2023","March","11","Sat",0,0,0,0,1,18
+"185","Larceny - Of Veh Parts/Access","2023-03-23","2023","March","01","Sat",0,0,0,0,1,18
+"186","Disorderly Conduct","2023-03-23","2023","March","00","Sat",0,0,0,0,1,18
+"187","Assault Aggravated","2023-03-23","2023","March","00","Sat",0,0,0,0,1,18
+"188","Misc - Non-Criminal Call","2023-03-22","2023","March","22","Fri",0,0,0,0,1,22
+"189","Motor Vehicle Theft","2023-03-22","2023","March","22","Fri",0,0,0,0,1,22
+"190","Missing Person-juvenile","2023-03-22","2023","March","21","Fri",0,0,0,0,1,22
+"191","Larceny - All Other","2023-03-22","2023","March","21","Fri",0,0,0,0,1,22
+"192","Larceny - All Other","2023-03-22","2023","March","21","Fri",0,0,0,0,1,22
+"193","Unauthorized Use of Motor Veh","2023-03-22","2023","March","20","Fri",0,0,0,0,1,22
+"194","Larceny - Shoplifitng","2023-03-22","2023","March","19","Fri",0,0,0,0,1,22
+"195","Lost/FoundProperty","2023-03-22","2023","March","19","Fri",0,0,0,0,1,22
+"196","Larceny - Shoplifitng","2023-03-22","2023","March","17","Fri",0,0,0,0,1,22
+"197","Harassment","2023-03-22","2023","March","15","Fri",0,0,0,0,1,22
+"198","Sex Offense","2023-03-22","2023","March","15","Fri",0,0,0,0,1,22
+"199","Suspicious Activity","2023-03-22","2023","March","15","Fri",0,0,0,0,1,22
+"200","Suspicious Activity","2023-03-22","2023","March","15","Fri",0,0,0,0,1,22
+"201","Vandalism","2023-03-22","2023","March","14","Fri",0,0,0,0,1,22
+"202","Vandalism","2023-03-22","2023","March","13","Fri",0,0,0,0,1,22
+"203","Vandalism","2023-03-22","2023","March","13","Fri",0,0,0,0,1,22
+"204","Runaway","2023-03-22","2023","March","11","Fri",0,0,0,0,1,22
+"205","Assault Aggravated","2023-03-22","2023","March","11","Fri",0,0,0,0,1,22
+"206","Domestic Disturbance","2023-03-22","2023","March","09","Fri",0,0,0,0,1,22
+"207","Suspicious Activity","2023-03-22","2023","March","03","Fri",0,0,0,0,1,22
+"208","Larceny - All Other","2023-03-22","2023","March","01","Fri",0,0,0,0,1,22
+"209","Larceny - All Other","2023-03-22","2023","March","00","Fri",0,0,0,0,1,22
+"210","Suspicious Activity","2023-03-21","2023","March","23","Thurs",0,0,0,0,1,18
+"211","Lost/FoundProperty","2023-03-21","2023","March","22","Thurs",0,0,0,0,1,18
+"212","Suspicious Activity","2023-03-21","2023","March","22","Thurs",0,0,0,0,1,18
+"213","Larceny - Theft from Building","2023-03-21","2023","March","21","Thurs",0,0,0,0,1,18
+"214","Hit and Run","2023-03-21","2023","March","21","Thurs",0,0,0,0,1,18
+"215","Assault Simple","2023-03-21","2023","March","20","Thurs",0,0,0,0,1,18
+"216","Hit and Run","2023-03-21","2023","March","19","Thurs",0,0,0,0,1,18
+"217","Assist Citizen - Medical","2023-03-21","2023","March","18","Thurs",0,0,0,0,1,18
+"218","Vandalism","2023-03-21","2023","March","15","Thurs",0,0,0,0,1,18
+"219","Larceny - From Motor Vehicle","2023-03-21","2023","March","15","Thurs",0,0,0,0,1,18
+"220","Larceny - Theft from Building","2023-03-21","2023","March","14","Thurs",0,0,0,0,1,18
+"221","Larceny - Shoplifitng","2023-03-21","2023","March","14","Thurs",0,0,0,0,1,18
+"222","Larceny - From Motor Vehicle","2023-03-21","2023","March","14","Thurs",0,0,0,0,1,18
+"223","Shots Fired/Illegal Hunting","2023-03-21","2023","March","06","Thurs",1,0,1,0,0,18
+"224","Assault Simple","2023-03-21","2023","March","05","Thurs",0,0,0,0,1,18
+"225","Domestic Disturbance","2023-03-21","2023","March","02","Thurs",0,0,0,0,1,18
+"226","Suspicious Activity","2023-03-21","2023","March","02","Thurs",0,0,0,0,1,18
+"227","Assist Citizen - Mental/TDO/ECO","2023-03-21","2023","March","01","Thurs",0,0,0,0,1,18
+"228","Harassment","2023-03-20","2023","March","22","Wed",0,0,0,0,1,14
+"229","Suspicious Person","2023-03-20","2023","March","19","Wed",0,0,0,0,1,14
+"230","Fraud-wire fraud","2023-03-20","2023","March","18","Wed",0,0,0,0,1,14
+"231","Larceny - Of Veh Parts/Access","2023-03-20","2023","March","17","Wed",0,0,0,0,1,14
+"232","Larceny - All Other","2023-03-20","2023","March","17","Wed",0,0,0,0,1,14
+"233","Larceny - Theft from Building","2023-03-20","2023","March","13","Wed",0,0,0,0,1,14
+"234","Vandalism","2023-03-20","2023","March","13","Wed",0,0,0,0,1,14
+"235","Fraud-credit card","2023-03-20","2023","March","13","Wed",0,0,0,0,1,14
+"236","Larceny - From Motor Vehicle","2023-03-20","2023","March","12","Wed",0,0,0,0,1,14
+"237","Larceny - From Motor Vehicle","2023-03-20","2023","March","10","Wed",0,0,0,0,1,14
+"238","Suspicious Activity","2023-03-20","2023","March","03","Wed",0,0,0,0,1,14
+"239","Trespass","2023-03-20","2023","March","00","Wed",0,0,0,0,1,14
+"240","Assist Citizen - Mental/TDO/ECO","2023-03-20","2023","March","00","Wed",0,0,0,0,1,14
+"241","Larceny - All Other","2023-03-20","2023","March","00","Wed",0,0,0,0,1,14
+"242","Larceny - Theft from Building","2023-03-19","2023","March","23","Tues",0,0,0,0,1,17
+"243","Disorderly Conduct","2023-03-19","2023","March","23","Tues",0,0,0,0,1,17
+"244","Misc - Non-Criminal Call","2023-03-19","2023","March","22","Tues",0,0,0,0,1,17
+"245","Burglary","2023-03-19","2023","March","19","Tues",0,0,0,0,1,17
+"246","Assault Simple","2023-03-19","2023","March","18","Tues",0,0,0,0,1,17
+"247","Animal - Bite","2023-03-19","2023","March","18","Tues",0,0,0,0,1,17
+"248","Assault Simple","2023-03-19","2023","March","15","Tues",0,0,0,0,1,17
+"249","Lost/FoundProperty","2023-03-19","2023","March","15","Tues",0,0,0,0,1,17
+"250","Motor Vehicle Theft","2023-03-19","2023","March","15","Tues",0,0,0,0,1,17
+"251","Larceny - Of Veh Parts/Access","2023-03-19","2023","March","14","Tues",0,0,0,0,1,17
+"252","Larceny - From Motor Vehicle","2023-03-19","2023","March","13","Tues",0,0,0,0,1,17
+"253","Driving Under the Influence","2023-03-19","2023","March","05","Tues",0,0,0,0,1,17
+"254","Traffic Stops","2023-03-19","2023","March","04","Tues",0,0,0,0,1,17
+"255","Suspicious Activity","2023-03-19","2023","March","01","Tues",0,0,0,0,1,17
+"256","Assist Citizen - Mental/TDO/ECO","2023-03-19","2023","March","00","Tues",0,0,0,0,1,17
+"257","Assist Citizen - Mental/TDO/ECO","2023-03-19","2023","March","00","Tues",0,0,0,0,1,17
+"258","Animal - Bite","2023-03-19","2023","March","00","Tues",0,0,0,0,1,17
+"259","Hit and Run","2023-03-18","2023","March","23","Mon",0,0,0,0,1,16
+"260","Larceny - Shoplifitng","2023-03-18","2023","March","23","Mon",0,0,0,0,1,16
+"261","Hit and Run","2023-03-18","2023","March","19","Mon",0,0,0,0,1,16
+"262","Assault Simple","2023-03-18","2023","March","18","Mon",0,0,0,0,1,16
+"263","Lost/FoundProperty","2023-03-18","2023","March","17","Mon",0,0,0,0,1,16
+"264","Harassment","2023-03-18","2023","March","15","Mon",0,0,0,0,1,16
+"265","Assault Intimidation","2023-03-18","2023","March","14","Mon",0,0,0,0,1,16
+"266","Vandalism","2023-03-18","2023","March","13","Mon",0,0,0,0,1,16
+"267","Burglary","2023-03-18","2023","March","10","Mon",0,0,0,0,1,16
+"268","Weapons Violations","2023-03-18","2023","March","07","Mon",0,0,0,0,1,16
+"269","Shots Fired/Illegal Hunting","2023-03-18","2023","March","06","Mon",1,0,1,0,0,16
+"270","Homicide-murder/non-negligent","2023-03-18","2023","March","05","Mon",0,0,0,0,1,16
+"271","Assault Simple","2023-03-18","2023","March","04","Mon",0,0,0,0,1,16
+"272","Assault Simple","2023-03-18","2023","March","03","Mon",0,0,0,0,1,16
+"273","Driving Under the Influence","2023-03-18","2023","March","03","Mon",0,0,0,0,1,16
+"274","Assault Intimidation","2023-03-18","2023","March","02","Mon",0,0,0,0,1,16
+"275","Larceny - Shoplifitng","2023-03-17","2023","March","23","Sun",0,0,0,0,1,22
+"276","Missing Person-juvenile","2023-03-17","2023","March","22","Sun",0,0,0,0,1,22
+"277","Larceny - Theft from Building","2023-03-17","2023","March","21","Sun",0,0,0,0,1,22
+"278","Larceny - Theft from Building","2023-03-17","2023","March","20","Sun",0,0,0,0,1,22
+"279","Drunkeness DIP","2023-03-17","2023","March","20","Sun",0,0,0,0,1,22
+"280","Larceny - Theft from Building","2023-03-17","2023","March","20","Sun",0,0,0,0,1,22
+"281","Vandalism","2023-03-17","2023","March","17","Sun",0,0,0,0,1,22
+"282","Larceny - Shoplifitng","2023-03-17","2023","March","17","Sun",0,0,0,0,1,22
+"283","Assist Citizen - Mental/TDO/ECO","2023-03-17","2023","March","16","Sun",0,0,0,0,1,22
+"284","Larceny - From Motor Vehicle","2023-03-17","2023","March","16","Sun",0,0,0,0,1,22
+"285","Vandalism","2023-03-17","2023","March","16","Sun",0,0,0,0,1,22
+"286","Misc - Criminal Call","2023-03-17","2023","March","14","Sun",0,0,0,0,1,22
+"287","Vandalism","2023-03-17","2023","March","07","Sun",0,0,0,0,1,22
+"288","Driving Under the Influence","2023-03-17","2023","March","06","Sun",0,0,0,0,1,22
+"289","Assist Citizen - Mental/TDO/ECO","2023-03-17","2023","March","04","Sun",0,0,0,0,1,22
+"290","Harassment","2023-03-17","2023","March","02","Sun",0,0,0,0,1,22
+"291","Larceny - Shoplifitng","2023-03-17","2023","March","02","Sun",0,0,0,0,1,22
+"292","Assault Aggravated","2023-03-17","2023","March","01","Sun",0,0,0,0,1,22
+"293","Assault Aggravated","2023-03-17","2023","March","01","Sun",0,0,0,0,1,22
+"294","Robbery - Armed","2023-03-17","2023","March","00","Sun",0,0,0,0,1,22
+"295","Driving Under the Influence","2023-03-17","2023","March","00","Sun",0,0,0,0,1,22
+"296","Hit and Run","2023-03-17","2023","March","00","Sun",0,0,0,0,1,22
+"297","Larceny - Shoplifitng","2023-03-16","2023","March","21","Sat",0,0,0,0,1,14
+"298","Fraud-impersonation","2023-03-16","2023","March","21","Sat",0,0,0,0,1,14
+"299","Animal Complaint","2023-03-16","2023","March","20","Sat",0,0,0,0,1,14
+"300","Assault Aggravated","2023-03-16","2023","March","19","Sat",0,0,0,0,1,14
+"301","Lost/FoundProperty","2023-03-16","2023","March","14","Sat",0,0,0,0,1,14
+"302","Misc - Non-Criminal Call","2023-03-16","2023","March","14","Sat",0,0,0,0,1,14
+"303","Suspicious Activity","2023-03-16","2023","March","06","Sat",0,0,0,0,1,14
+"304","Larceny - Theft from Building","2023-03-16","2023","March","02","Sat",0,0,0,0,1,14
+"305","Assist Citizen - Mental/TDO/ECO","2023-03-16","2023","March","02","Sat",0,0,0,0,1,14
+"306","Assist Citizen - Mental/TDO/ECO","2023-03-16","2023","March","02","Sat",0,0,0,0,1,14
+"307","Animal Complaint","2023-03-16","2023","March","00","Sat",0,0,0,0,1,14
+"308","Larceny - All Other","2023-03-16","2023","March","00","Sat",0,0,0,0,1,14
+"309","Assault Aggravated","2023-03-16","2023","March","00","Sat",0,0,0,0,1,14
+"310","Larceny - Shoplifitng","2023-03-16","2023","March","00","Sat",0,0,0,0,1,14
+"311","Larceny - Theft from Building","2023-03-15","2023","March","22","Fri",0,0,0,0,1,14
+"312","Assault Simple","2023-03-15","2023","March","22","Fri",0,0,0,0,1,14
+"313","Larceny - Theft from Building","2023-03-15","2023","March","22","Fri",0,0,0,0,1,14
+"314","Larceny - Theft from Building","2023-03-15","2023","March","21","Fri",0,0,0,0,1,14
+"315","Animal Complaint","2023-03-15","2023","March","21","Fri",0,0,0,0,1,14
+"316","Larceny - Theft from Building","2023-03-15","2023","March","19","Fri",0,0,0,0,1,14
+"317","Larceny - Shoplifitng","2023-03-15","2023","March","19","Fri",0,0,0,0,1,14
+"318","Larceny - From Motor Vehicle","2023-03-15","2023","March","18","Fri",0,0,0,0,1,14
+"319","Larceny - Shoplifitng","2023-03-15","2023","March","18","Fri",0,0,0,0,1,14
+"320","Larceny - Shoplifitng","2023-03-15","2023","March","17","Fri",0,0,0,0,1,14
+"321","Suspicious Activity","2023-03-15","2023","March","16","Fri",0,0,0,0,1,14
+"322","Assault Simple","2023-03-15","2023","March","15","Fri",0,0,0,0,1,14
+"323","Assist Citizen - Mental/TDO/ECO","2023-03-15","2023","March","09","Fri",0,0,0,0,1,14
+"324","Traffic Stops","2023-03-15","2023","March","03","Fri",0,0,0,0,1,14
+"325","Larceny - From Motor Vehicle","2023-03-14","2023","March","18","Thurs",0,0,0,0,1,19
+"326","Suspicious Activity","2023-03-14","2023","March","18","Thurs",0,0,0,0,1,19
+"327","Fraud-impersonation","2023-03-14","2023","March","16","Thurs",0,0,0,0,1,19
+"328","Fraud-wire fraud","2023-03-14","2023","March","16","Thurs",0,0,0,0,1,19
+"329","Vandalism","2023-03-14","2023","March","15","Thurs",0,0,0,0,1,19
+"330","Larceny - Theft from Building","2023-03-14","2023","March","14","Thurs",0,0,0,0,1,19
+"331","Warrant Service","2023-03-14","2023","March","14","Thurs",0,0,0,0,1,19
+"332","Larceny - Theft from Building","2023-03-14","2023","March","14","Thurs",0,0,0,0,1,19
+"333","Hit and Run","2023-03-14","2023","March","14","Thurs",0,0,0,0,1,19
+"334","Phone Calls - Annoying","2023-03-14","2023","March","13","Thurs",0,0,0,0,1,19
+"335","Fraud-false pretense","2023-03-14","2023","March","13","Thurs",0,0,0,0,1,19
+"336","Suspicious Activity","2023-03-14","2023","March","12","Thurs",0,0,0,0,1,19
+"337","Phone Calls - Threat or Obscene","2023-03-14","2023","March","12","Thurs",0,0,0,0,1,19
+"338","Larceny - From Motor Vehicle","2023-03-14","2023","March","12","Thurs",0,0,0,0,1,19
+"339","Trespass","2023-03-14","2023","March","11","Thurs",0,0,0,0,1,19
+"340","Larceny - All Other","2023-03-14","2023","March","09","Thurs",0,0,0,0,1,19
+"341","Disturbance - Non Domestic","2023-03-14","2023","March","07","Thurs",0,0,0,0,1,19
+"342","Drug/Narcotics Violation","2023-03-14","2023","March","06","Thurs",0,0,0,0,1,19
+"343","Assault Aggravated","2023-03-14","2023","March","01","Thurs",0,0,0,0,1,19
+"344","Hit and Run","2023-03-13","2023","March","23","Wed",0,0,0,0,1,12
+"345","Assist Citizen - Mental/TDO/ECO","2023-03-13","2023","March","22","Wed",0,0,0,0,1,12
+"346","Lost/FoundProperty","2023-03-13","2023","March","21","Wed",0,0,0,0,1,12
+"347","Hit and Run","2023-03-13","2023","March","21","Wed",0,0,0,0,1,12
+"348","Larceny - Theft from Building","2023-03-13","2023","March","17","Wed",0,0,0,0,1,12
+"349","Hit and Run","2023-03-13","2023","March","17","Wed",0,0,0,0,1,12
+"350","Suspicious Activity","2023-03-13","2023","March","14","Wed",0,0,0,0,1,12
+"351","Assault Intimidation","2023-03-13","2023","March","14","Wed",0,0,0,0,1,12
+"352","Motor Vehicle Theft","2023-03-13","2023","March","14","Wed",0,0,0,0,1,12
+"353","Assault Simple","2023-03-13","2023","March","13","Wed",0,0,0,0,1,12
+"354","Assault Aggravated","2023-03-13","2023","March","05","Wed",0,0,0,0,1,12
+"355","Fraud-false pretense","2023-03-13","2023","March","02","Wed",0,0,0,0,1,12
+"356","Misc - Criminal Call","2023-03-12","2023","March","22","Tues",0,0,0,0,1,12
+"357","Larceny - All Other","2023-03-12","2023","March","21","Tues",0,0,0,0,1,12
+"358","Lost/FoundProperty","2023-03-12","2023","March","20","Tues",0,0,0,0,1,12
+"359","Motor Vehicle Theft","2023-03-12","2023","March","11","Tues",0,0,0,0,1,12
+"360","Misc - Non-Criminal Call","2023-03-12","2023","March","11","Tues",0,0,0,0,1,12
+"361","Domestic Disturbance","2023-03-12","2023","March","08","Tues",0,0,0,0,1,12
+"362","Larceny - All Other","2023-03-12","2023","March","05","Tues",0,0,0,0,1,12
+"363","Lost/FoundProperty","2023-03-12","2023","March","05","Tues",0,0,0,0,1,12
+"364","Domestic Disturbance","2023-03-12","2023","March","03","Tues",0,0,0,0,1,12
+"365","Assist Citizen - Welfare Check","2023-03-12","2023","March","02","Tues",0,0,0,0,1,12
+"366","Larceny - Shoplifitng","2023-03-12","2023","March","01","Tues",0,0,0,0,1,12
+"367","Animal Complaint","2023-03-12","2023","March","01","Tues",0,0,0,0,1,12
+"368","Hit and Run","2023-03-11","2023","March","23","Mon",0,0,0,0,1,10
+"369","Hit and Run","2023-03-11","2023","March","21","Mon",0,0,0,0,1,10
+"370","Vandalism","2023-03-11","2023","March","20","Mon",0,0,0,0,1,10
+"371","Extortion/Blackmail","2023-03-11","2023","March","18","Mon",0,0,0,0,1,10
+"372","Suspicious Activity","2023-03-11","2023","March","18","Mon",0,0,0,0,1,10
+"373","Lost/FoundProperty","2023-03-11","2023","March","15","Mon",0,0,0,0,1,10
+"374","Death Investigation - DOA","2023-03-11","2023","March","12","Mon",0,0,0,0,1,10
+"375","Driving Under the Influence","2023-03-11","2023","March","07","Mon",0,0,0,0,1,10
+"376","Hit and Run","2023-03-11","2023","March","01","Mon",0,0,0,0,1,10
+"377","Suspicious Activity","2023-03-11","2023","March","00","Mon",0,0,0,0,1,10
+"378","Driving Under the Influence","2023-03-10","2023","March","22","Sun",0,0,0,0,1,10
+"379","Larceny - All Other","2023-03-10","2023","March","22","Sun",0,0,0,0,1,10
+"380","Larceny - All Other","2023-03-10","2023","March","22","Sun",0,0,0,0,1,10
+"381","Assault Simple","2023-03-10","2023","March","21","Sun",0,0,0,0,1,10
+"382","Warrant Service","2023-03-10","2023","March","17","Sun",0,0,0,0,1,10
+"383","Forgery/Counterfeiting","2023-03-10","2023","March","15","Sun",0,0,0,0,1,10
+"384","Assault Intimidation","2023-03-10","2023","March","13","Sun",0,0,0,0,1,10
+"385","Missing Person-adult","2023-03-10","2023","March","06","Sun",0,0,0,0,1,10
+"386","Suspicious Activity","2023-03-10","2023","March","03","Sun",0,0,0,0,1,10
+"387","Lost/FoundProperty","2023-03-10","2023","March","03","Sun",0,0,0,0,1,10
+"388","Hit and Run","2023-03-09","2023","March","23","Sat",0,0,0,0,1,15
+"389","Burglary","2023-03-09","2023","March","22","Sat",0,0,0,0,1,15
+"390","Larceny - All Other","2023-03-09","2023","March","22","Sat",0,0,0,0,1,15
+"391","Comm Relations Initiative - CRI","2023-03-09","2023","March","21","Sat",0,0,0,0,1,15
+"392","Larceny - Theft from Building","2023-03-09","2023","March","20","Sat",0,0,0,0,1,15
+"393","Drug/Narcotics Violation","2023-03-09","2023","March","20","Sat",0,0,0,0,1,15
+"394","Disorderly Conduct","2023-03-09","2023","March","15","Sat",0,0,0,0,1,15
+"395","Missing Person-adult","2023-03-09","2023","March","11","Sat",0,0,0,0,1,15
+"396","Suspicious Vehicle","2023-03-09","2023","March","07","Sat",0,0,0,0,1,15
+"397","Larceny - From Motor Vehicle","2023-03-09","2023","March","03","Sat",0,0,0,0,1,15
+"398","Unauthorized Use of Motor Veh","2023-03-09","2023","March","02","Sat",0,0,0,0,1,15
+"399","Driving Under the Influence","2023-03-09","2023","March","00","Sat",0,0,0,0,1,15
+"400","Larceny - From Motor Vehicle","2023-03-09","2023","March","00","Sat",0,0,0,0,1,15
+"401","Vandalism","2023-03-09","2023","March","00","Sat",0,0,0,0,1,15
+"402","Fraud-wire fraud","2023-03-09","2023","March","00","Sat",0,0,0,0,1,15
+"403","Harassment","2023-03-08","2023","March","21","Fri",0,0,0,0,1,9
+"404","Assist Citizen - Mental/TDO/ECO","2023-03-08","2023","March","20","Fri",0,0,0,0,1,9
+"405","Harassment","2023-03-08","2023","March","19","Fri",0,0,0,0,1,9
+"406","Larceny - From Motor Vehicle","2023-03-08","2023","March","17","Fri",0,0,0,0,1,9
+"407","Larceny - From Motor Vehicle","2023-03-08","2023","March","15","Fri",0,0,0,0,1,9
+"408","Assault Simple","2023-03-08","2023","March","14","Fri",0,0,0,0,1,9
+"409","Fires Not Arson","2023-03-08","2023","March","06","Fri",0,0,0,0,1,9
+"410","Phone Calls - Annoying","2023-03-08","2023","March","05","Fri",0,0,0,0,1,9
+"411","Assault Aggravated","2023-03-08","2023","March","00","Fri",0,0,0,0,1,9
+"412","Disorderly Conduct","2023-03-07","2023","March","22","Thurs",0,0,0,0,1,14
+"413","Assault Simple","2023-03-07","2023","March","21","Thurs",0,0,0,0,1,14
+"414","Larceny - From Motor Vehicle","2023-03-07","2023","March","20","Thurs",0,0,0,0,1,14
+"415","Lost/FoundProperty","2023-03-07","2023","March","20","Thurs",0,0,0,0,1,14
+"416","Assault Simple","2023-03-07","2023","March","18","Thurs",0,0,0,0,1,14
+"417","Hit and Run","2023-03-07","2023","March","17","Thurs",0,0,0,0,1,14
+"418","Suspicious Activity","2023-03-07","2023","March","16","Thurs",0,0,0,0,1,14
+"419","Assault Intimidation","2023-03-07","2023","March","16","Thurs",0,0,0,0,1,14
+"420","Suspicious Activity","2023-03-07","2023","March","16","Thurs",0,0,0,0,1,14
+"421","Fraud-credit card","2023-03-07","2023","March","15","Thurs",0,0,0,0,1,14
+"422","Larceny - Theft from Building","2023-03-07","2023","March","13","Thurs",0,0,0,0,1,14
+"423","Assist Citizen - Mental/TDO/ECO","2023-03-07","2023","March","08","Thurs",0,0,0,0,1,14
+"424","Burglary","2023-03-07","2023","March","04","Thurs",0,0,0,0,1,14
+"425","Burglary","2023-03-07","2023","March","03","Thurs",0,0,0,0,1,14
+"426","Assault Simple","2023-03-06","2023","March","23","Wed",0,0,0,0,1,21
+"427","Fraud-impersonation","2023-03-06","2023","March","22","Wed",0,0,0,0,1,21
+"428","Larceny - Shoplifitng","2023-03-06","2023","March","20","Wed",0,0,0,0,1,21
+"429","Animal Complaint","2023-03-06","2023","March","20","Wed",0,0,0,0,1,21
+"430","Burglary","2023-03-06","2023","March","20","Wed",0,0,0,0,1,21
+"431","Motor Vehicle Theft","2023-03-06","2023","March","19","Wed",0,0,0,0,1,21
+"432","Disorderly Conduct","2023-03-06","2023","March","19","Wed",0,0,0,0,1,21
+"433","Fraud-credit card","2023-03-06","2023","March","18","Wed",0,0,0,0,1,21
+"434","Larceny - From Motor Vehicle","2023-03-06","2023","March","18","Wed",0,0,0,0,1,21
+"435","Larceny - All Other","2023-03-06","2023","March","18","Wed",0,0,0,0,1,21
+"436","Drug Investigation","2023-03-06","2023","March","18","Wed",0,0,0,0,1,21
+"437","Assist Agency - Other","2023-03-06","2023","March","16","Wed",0,0,0,0,1,21
+"438","Larceny - From Motor Vehicle","2023-03-06","2023","March","16","Wed",0,0,0,0,1,21
+"439","Larceny - All Other","2023-03-06","2023","March","16","Wed",0,0,0,0,1,21
+"440","Lost/FoundProperty","2023-03-06","2023","March","14","Wed",0,0,0,0,1,21
+"441","Larceny - All Other","2023-03-06","2023","March","14","Wed",0,0,0,0,1,21
+"442","Burglary","2023-03-06","2023","March","13","Wed",0,0,0,0,1,21
+"443","Larceny - Shoplifitng","2023-03-06","2023","March","11","Wed",0,0,0,0,1,21
+"444","Suspicious Activity","2023-03-06","2023","March","06","Wed",0,0,0,0,1,21
+"445","Vandalism","2023-03-06","2023","March","02","Wed",0,0,0,0,1,21
+"446","Assault Intimidation","2023-03-06","2023","March","00","Wed",0,0,0,0,1,21
+"447","Larceny - Theft from Building","2023-03-05","2023","March","22","Tues",0,0,0,0,1,17
+"448","Assist Citizen - Mental/TDO/ECO","2023-03-05","2023","March","21","Tues",0,0,0,0,1,17
+"449","Assault Intimidation","2023-03-05","2023","March","21","Tues",0,0,0,0,1,17
+"450","Vandalism","2023-03-05","2023","March","18","Tues",0,0,0,0,1,17
+"451","Vandalism","2023-03-05","2023","March","17","Tues",0,0,0,0,1,17
+"452","Shots Fired/Illegal Hunting","2023-03-05","2023","March","16","Tues",1,0,1,0,0,17
+"453","Accident - w/out Injuries","2023-03-05","2023","March","13","Tues",0,0,0,0,1,17
+"454","Larceny - Shoplifitng","2023-03-05","2023","March","12","Tues",0,0,0,0,1,17
+"455","Driving Under the Influence","2023-03-05","2023","March","08","Tues",0,0,0,0,1,17
+"456","Drug/Narcotics Violation","2023-03-05","2023","March","05","Tues",0,0,0,0,1,17
+"457","Hit and Run","2023-03-05","2023","March","03","Tues",0,0,0,0,1,17
+"458","Vandalism","2023-03-05","2023","March","02","Tues",0,0,0,0,1,17
+"459","Disorderly Conduct","2023-03-05","2023","March","02","Tues",0,0,0,0,1,17
+"460","Larceny - Shoplifitng","2023-03-05","2023","March","02","Tues",0,0,0,0,1,17
+"461","Suspicious Activity","2023-03-05","2023","March","02","Tues",0,0,0,0,1,17
+"462","Larceny - All Other","2023-03-05","2023","March","01","Tues",0,0,0,0,1,17
+"463","Assist Citizen - Mental/TDO/ECO","2023-03-05","2023","March","00","Tues",0,0,0,0,1,17
+"464","Assault Simple","2023-03-04","2023","March","22","Mon",0,0,0,0,1,9
+"465","Lost/FoundProperty","2023-03-04","2023","March","18","Mon",0,0,0,0,1,9
+"466","Hit and Run","2023-03-04","2023","March","17","Mon",0,0,0,0,1,9
+"467","Bomb Threat","2023-03-04","2023","March","16","Mon",0,0,0,0,1,9
+"468","Lost/FoundProperty","2023-03-04","2023","March","15","Mon",0,0,0,0,1,9
+"469","Assist Citizen - Mental/TDO/ECO","2023-03-04","2023","March","14","Mon",0,0,0,0,1,9
+"470","Assist Citizen - Mental/TDO/ECO","2023-03-04","2023","March","05","Mon",0,0,0,0,1,9
+"471","Assist Citizen - Mental/TDO/ECO","2023-03-04","2023","March","03","Mon",0,0,0,0,1,9
+"472","Larceny - From Motor Vehicle","2023-03-04","2023","March","00","Mon",0,0,0,0,1,9
+"473","Misc - Criminal Call","2023-03-03","2023","March","23","Sun",0,0,0,0,1,16
+"474","Fraud-false pretense","2023-03-03","2023","March","23","Sun",0,0,0,0,1,16
+"475","Larceny - Shoplifitng","2023-03-03","2023","March","22","Sun",0,0,0,0,1,16
+"476","Larceny - Shoplifitng","2023-03-03","2023","March","21","Sun",0,0,0,0,1,16
+"477","Vandalism","2023-03-03","2023","March","21","Sun",0,0,0,0,1,16
+"478","Fraud-impersonation","2023-03-03","2023","March","21","Sun",0,0,0,0,1,16
+"479","Assault Simple","2023-03-03","2023","March","20","Sun",0,0,0,0,1,16
+"480","Larceny - Theft from Building","2023-03-03","2023","March","19","Sun",0,0,0,0,1,16
+"481","Harassment","2023-03-03","2023","March","16","Sun",0,0,0,0,1,16
+"482","Misc - Criminal Call","2023-03-03","2023","March","14","Sun",0,0,0,0,1,16
+"483","Vandalism","2023-03-03","2023","March","12","Sun",0,0,0,0,1,16
+"484","Trespass","2023-03-03","2023","March","10","Sun",0,0,0,0,1,16
+"485","Driving Under the Influence","2023-03-03","2023","March","04","Sun",0,0,0,0,1,16
+"486","Larceny - From Motor Vehicle","2023-03-03","2023","March","01","Sun",0,0,0,0,1,16
+"487","Misc - Criminal Call","2023-03-03","2023","March","00","Sun",0,0,0,0,1,16
+"488","Missing Person-adult","2023-03-03","2023","March","00","Sun",0,0,0,0,1,16
+"489","Harassment","2023-03-02","2023","March","23","Sat",0,0,0,0,1,14
+"490","Larceny - All Other","2023-03-02","2023","March","22","Sat",0,0,0,0,1,14
+"491","Burglary","2023-03-02","2023","March","22","Sat",0,0,0,0,1,14
+"492","Harassment","2023-03-02","2023","March","20","Sat",0,0,0,0,1,14
+"493","Misc - Criminal Call","2023-03-02","2023","March","20","Sat",0,0,0,0,1,14
+"494","Hit and Run","2023-03-02","2023","March","19","Sat",0,0,0,0,1,14
+"495","Larceny - Shoplifitng","2023-03-02","2023","March","18","Sat",0,0,0,0,1,14
+"496","Assault Simple","2023-03-02","2023","March","17","Sat",0,0,0,0,1,14
+"497","Assault Simple","2023-03-02","2023","March","16","Sat",0,0,0,0,1,14
+"498","Larceny - Of Veh Parts/Access","2023-03-02","2023","March","15","Sat",0,0,0,0,1,14
+"499","Pornography","2023-03-02","2023","March","15","Sat",0,0,0,0,1,14
+"500","Fraud-impersonation","2023-03-02","2023","March","15","Sat",0,0,0,0,1,14
+"501","Larceny - All Other","2023-03-02","2023","March","10","Sat",0,0,0,0,1,14
+"502","Assault Simple","2023-03-02","2023","March","03","Sat",0,0,0,0,1,14
+"503","Hit and Run","2023-03-01","2023","March","22","Fri",0,0,0,0,1,11
+"504","Larceny - All Other","2023-03-01","2023","March","22","Fri",0,0,0,0,1,11
+"505","Larceny - Pocket Picking","2023-03-01","2023","March","18","Fri",0,0,0,0,1,11
+"506","Larceny - Theft from Building","2023-03-01","2023","March","18","Fri",0,0,0,0,1,11
+"507","Assault Simple","2023-03-01","2023","March","17","Fri",0,0,0,0,1,11
+"508","Lost/FoundProperty","2023-03-01","2023","March","16","Fri",0,0,0,0,1,11
+"509","Larceny - Theft from Building","2023-03-01","2023","March","15","Fri",0,0,0,0,1,11
+"510","Lost/FoundProperty","2023-03-01","2023","March","15","Fri",0,0,0,0,1,11
+"511","Larceny - Theft from Building","2023-03-01","2023","March","15","Fri",0,0,0,0,1,11
+"512","Assault Simple","2023-03-01","2023","March","04","Fri",0,0,0,0,1,11
+"513","Hit and Run","2023-03-01","2023","March","01","Fri",0,0,0,0,1,11
+"514","Assault Simple","2023-02-28","2023","February","23","Thurs",0,0,0,0,1,13
+"515","Hit and Run","2023-02-28","2023","February","22","Thurs",0,0,0,0,1,13
+"516","Driving Under the Influence","2023-02-28","2023","February","20","Thurs",0,0,0,0,1,13
+"517","Fraud-impersonation","2023-02-28","2023","February","19","Thurs",0,0,0,0,1,13
+"518","Hit and Run","2023-02-28","2023","February","17","Thurs",0,0,0,0,1,13
+"519","Fraud-wire fraud","2023-02-28","2023","February","17","Thurs",0,0,0,0,1,13
+"520","Harassment","2023-02-28","2023","February","16","Thurs",0,0,0,0,1,13
+"521","Assault Aggravated","2023-02-28","2023","February","16","Thurs",0,0,0,0,1,13
+"522","Warrant Service","2023-02-28","2023","February","15","Thurs",0,0,0,0,1,13
+"523","Larceny - All Other","2023-02-28","2023","February","13","Thurs",0,0,0,0,1,13
+"524","Larceny - Shoplifitng","2023-02-28","2023","February","05","Thurs",0,0,0,0,1,13
+"525","Disorderly Conduct","2023-02-28","2023","February","03","Thurs",0,0,0,0,1,13
+"526","Suspicious Activity","2023-02-28","2023","February","00","Thurs",0,0,0,0,1,13
+"527","Misc - Criminal Call","2023-02-27","2023","February","20","Wed",0,0,0,0,1,11
+"528","Suspicious Activity","2023-02-27","2023","February","18","Wed",0,0,0,0,1,11
+"529","Hit and Run","2023-02-27","2023","February","18","Wed",0,0,0,0,1,11
+"530","Death Investigation - DOA","2023-02-27","2023","February","17","Wed",0,0,0,0,1,11
+"531","Assault Intimidation","2023-02-27","2023","February","17","Wed",0,0,0,0,1,11
+"532","Harassment","2023-02-27","2023","February","17","Wed",0,0,0,0,1,11
+"533","Suspicious Activity","2023-02-27","2023","February","15","Wed",0,0,0,0,1,11
+"534","Larceny - Theft from Building","2023-02-27","2023","February","14","Wed",0,0,0,0,1,11
+"535","Larceny - Theft from Building","2023-02-27","2023","February","13","Wed",0,0,0,0,1,11
+"536","Assault Simple","2023-02-27","2023","February","13","Wed",0,0,0,0,1,11
+"537","Assault Simple","2023-02-27","2023","February","02","Wed",0,0,0,0,1,11
+"538","Larceny - Theft from Building","2023-02-26","2023","February","21","Tues",0,0,0,0,1,12
+"539","Larceny - Theft from Building","2023-02-26","2023","February","20","Tues",0,0,0,0,1,12
+"540","Lost/FoundProperty","2023-02-26","2023","February","20","Tues",0,0,0,0,1,12
+"541","Larceny - All Other","2023-02-26","2023","February","19","Tues",0,0,0,0,1,12
+"542","Hit and Run","2023-02-26","2023","February","16","Tues",0,0,0,0,1,12
+"543","Domestic Disturbance","2023-02-26","2023","February","16","Tues",0,0,0,0,1,12
+"544","Fraud-false pretense","2023-02-26","2023","February","15","Tues",0,0,0,0,1,12
+"545","Larceny - Theft from Building","2023-02-26","2023","February","12","Tues",0,0,0,0,1,12
+"546","Domestic Disturbance","2023-02-26","2023","February","10","Tues",0,0,0,0,1,12
+"547","Vandalism","2023-02-26","2023","February","08","Tues",0,0,0,0,1,12
+"548","Hit and Run","2023-02-26","2023","February","02","Tues",0,0,0,0,1,12
+"549","Lost/FoundProperty","2023-02-26","2023","February","01","Tues",0,0,0,0,1,12
+"550","Assault Simple","2023-02-25","2023","February","22","Mon",0,0,0,0,1,22
+"551","Larceny - From Motor Vehicle","2023-02-25","2023","February","22","Mon",0,0,0,0,1,22
+"552","Suspicious Person","2023-02-25","2023","February","22","Mon",0,0,0,0,1,22
+"553","Suspicious Activity","2023-02-25","2023","February","21","Mon",0,0,0,0,1,22
+"554","Fraud-wire fraud","2023-02-25","2023","February","20","Mon",0,0,0,0,1,22
+"555","Drug Investigation","2023-02-25","2023","February","19","Mon",0,0,0,0,1,22
+"556","Larceny - From Motor Vehicle","2023-02-25","2023","February","16","Mon",0,0,0,0,1,22
+"557","Larceny - From Motor Vehicle","2023-02-25","2023","February","15","Mon",0,0,0,0,1,22
+"558","Lost/FoundProperty","2023-02-25","2023","February","15","Mon",0,0,0,0,1,22
+"559","Animal Complaint","2023-02-25","2023","February","14","Mon",0,0,0,0,1,22
+"560","Larceny - Theft from Building","2023-02-25","2023","February","14","Mon",0,0,0,0,1,22
+"561","Larceny - Theft from Building","2023-02-25","2023","February","14","Mon",0,0,0,0,1,22
+"562","Trespass","2023-02-25","2023","February","13","Mon",0,0,0,0,1,22
+"563","Lost/FoundProperty","2023-02-25","2023","February","12","Mon",0,0,0,0,1,22
+"564","Shots Fired/Illegal Hunting","2023-02-25","2023","February","11","Mon",1,0,1,0,0,22
+"565","Vandalism","2023-02-25","2023","February","09","Mon",0,0,0,0,1,22
+"566","Hit and Run","2023-02-25","2023","February","08","Mon",0,0,0,0,1,22
+"567","Lost/FoundProperty","2023-02-25","2023","February","07","Mon",0,0,0,0,1,22
+"568","Drunkeness DIP","2023-02-25","2023","February","06","Mon",0,0,0,0,1,22
+"569","Driving Under the Influence","2023-02-25","2023","February","06","Mon",0,0,0,0,1,22
+"570","Disorderly Conduct","2023-02-25","2023","February","05","Mon",0,0,0,0,1,22
+"571","Lost/FoundProperty","2023-02-25","2023","February","04","Mon",0,0,0,0,1,22
+"572","Narcotics","2023-02-24","2023","February","23","Sun",0,0,0,0,1,19
+"573","Hit and Run","2023-02-24","2023","February","23","Sun",0,0,0,0,1,19
+"574","Hit and Run","2023-02-24","2023","February","23","Sun",0,0,0,0,1,19
+"575","Stalking","2023-02-24","2023","February","23","Sun",0,0,0,0,1,19
+"576","Larceny - From Motor Vehicle","2023-02-24","2023","February","22","Sun",0,0,0,0,1,19
+"577","Weapons Violations","2023-02-24","2023","February","21","Sun",0,0,0,0,1,19
+"578","Larceny - Theft from Building","2023-02-24","2023","February","21","Sun",0,0,0,0,1,19
+"579","Assault Simple","2023-02-24","2023","February","17","Sun",0,0,0,0,1,19
+"580","Missing Person-juvenile","2023-02-24","2023","February","13","Sun",0,0,0,0,1,19
+"581","Accident w/Injuries","2023-02-24","2023","February","07","Sun",0,0,0,0,1,19
+"582","Assault Aggravated","2023-02-24","2023","February","06","Sun",0,0,0,0,1,19
+"583","Assault Simple","2023-02-24","2023","February","04","Sun",0,0,0,0,1,19
+"584","Disorderly Conduct","2023-02-24","2023","February","03","Sun",0,0,0,0,1,19
+"585","Hit and Run","2023-02-24","2023","February","01","Sun",0,0,0,0,1,19
+"586","Phone Calls - Threat or Obscene","2023-02-24","2023","February","01","Sun",0,0,0,0,1,19
+"587","Larceny - Theft from Building","2023-02-24","2023","February","00","Sun",0,0,0,0,1,19
+"588","Larceny - Theft from Building","2023-02-24","2023","February","00","Sun",0,0,0,0,1,19
+"589","Fraud-credit card","2023-02-24","2023","February","00","Sun",0,0,0,0,1,19
+"590","Burglary","2023-02-24","2023","February","00","Sun",0,0,0,0,1,19
+"591","Trespass","2023-02-23","2023","February","22","Sat",0,0,0,0,1,5
+"592","Fraud-false pretense","2023-02-23","2023","February","21","Sat",0,0,0,0,1,5
+"593","Motor Vehicle Theft","2023-02-23","2023","February","12","Sat",0,0,0,0,1,5
+"594","Suspicious Activity","2023-02-23","2023","February","07","Sat",0,0,0,0,1,5
+"595","Assault Simple","2023-02-23","2023","February","05","Sat",0,0,0,0,1,5
+"596","Hit and Run","2023-02-22","2023","February","23","Fri",0,0,0,0,1,8
+"597","Fraud-credit card","2023-02-22","2023","February","21","Fri",0,0,0,0,1,8
+"598","Hit and Run","2023-02-22","2023","February","19","Fri",0,0,0,0,1,8
+"599","Larceny - Theft from Building","2023-02-22","2023","February","15","Fri",0,0,0,0,1,8
+"600","Domestic Disturbance","2023-02-22","2023","February","15","Fri",0,0,0,0,1,8
+"601","Larceny - All Other","2023-02-22","2023","February","14","Fri",0,0,0,0,1,8
+"602","Larceny - From Motor Vehicle","2023-02-22","2023","February","13","Fri",0,0,0,0,1,8
+"603","Hit and Run","2023-02-22","2023","February","01","Fri",0,0,0,0,1,8
+"604","Larceny - From Motor Vehicle","2023-02-21","2023","February","23","Thurs",0,0,0,0,1,17
+"605","Assist Citizen - Mental/TDO/ECO","2023-02-21","2023","February","23","Thurs",0,0,0,0,1,17
+"606","Assist Citizen - Mental/TDO/ECO","2023-02-21","2023","February","22","Thurs",0,0,0,0,1,17
+"607","Larceny - Shoplifitng","2023-02-21","2023","February","21","Thurs",0,0,0,0,1,17
+"608","Larceny - From Motor Vehicle","2023-02-21","2023","February","21","Thurs",0,0,0,0,1,17
+"609","Assist Citizen - Mental/TDO/ECO","2023-02-21","2023","February","21","Thurs",0,0,0,0,1,17
+"610","Fraud-false pretense","2023-02-21","2023","February","19","Thurs",0,0,0,0,1,17
+"611","Larceny - All Other","2023-02-21","2023","February","19","Thurs",0,0,0,0,1,17
+"612","Motor Vehicle Theft","2023-02-21","2023","February","19","Thurs",0,0,0,0,1,17
+"613","Harassment","2023-02-21","2023","February","18","Thurs",0,0,0,0,1,17
+"614","Larceny - Theft from Building","2023-02-21","2023","February","16","Thurs",0,0,0,0,1,17
+"615","Lost/FoundProperty","2023-02-21","2023","February","16","Thurs",0,0,0,0,1,17
+"616","Suspicious Activity","2023-02-21","2023","February","06","Thurs",0,0,0,0,1,17
+"617","Domestic Disturbance","2023-02-21","2023","February","05","Thurs",0,0,0,0,1,17
+"618","Shots Fired/Illegal Hunting","2023-02-21","2023","February","02","Thurs",1,0,1,0,0,17
+"619","Lost/FoundProperty","2023-02-21","2023","February","02","Thurs",0,0,0,0,1,17
+"620","Larceny - Theft from Building","2023-02-21","2023","February","01","Thurs",0,0,0,0,1,17
+"621","Assist Agency - Backup/Assist","2023-02-20","2023","February","23","Wed",0,0,0,0,1,6
+"622","Larceny - Shoplifitng","2023-02-20","2023","February","22","Wed",0,0,0,0,1,6
+"623","Vandalism","2023-02-20","2023","February","21","Wed",0,0,0,0,1,6
+"624","Larceny - Theft from Building","2023-02-20","2023","February","19","Wed",0,0,0,0,1,6
+"625","Larceny - From Motor Vehicle","2023-02-20","2023","February","17","Wed",0,0,0,0,1,6
+"626","Suspicious Person","2023-02-20","2023","February","04","Wed",0,0,0,0,1,6
+"627","Vandalism","2023-02-19","2023","February","23","Tues",0,0,0,0,1,9
+"628","Suspicious Activity","2023-02-19","2023","February","20","Tues",0,0,0,0,1,9
+"629","Disorderly Conduct","2023-02-19","2023","February","06","Tues",0,0,0,0,1,9
+"630","Assault Simple","2023-02-19","2023","February","06","Tues",0,0,0,0,1,9
+"631","Stalking","2023-02-19","2023","February","03","Tues",0,0,0,0,1,9
+"632","Accident Property Damage","2023-02-19","2023","February","02","Tues",0,0,0,0,1,9
+"633","Assault Aggravated","2023-02-19","2023","February","01","Tues",0,0,0,0,1,9
+"634","Harassment","2023-02-19","2023","February","01","Tues",0,0,0,0,1,9
+"635","Misc - Criminal Call","2023-02-19","2023","February","00","Tues",0,0,0,0,1,9
+"636","Larceny - Shoplifitng","2023-02-18","2023","February","23","Mon",0,0,0,0,1,13
+"637","Hit and Run","2023-02-18","2023","February","20","Mon",0,0,0,0,1,13
+"638","Hit and Run","2023-02-18","2023","February","19","Mon",0,0,0,0,1,13
+"639","Harassment","2023-02-18","2023","February","18","Mon",0,0,0,0,1,13
+"640","Assault Simple","2023-02-18","2023","February","18","Mon",0,0,0,0,1,13
+"641","Larceny - All Other","2023-02-18","2023","February","18","Mon",0,0,0,0,1,13
+"642","Assault Simple","2023-02-18","2023","February","15","Mon",0,0,0,0,1,13
+"643","Lost/FoundProperty","2023-02-18","2023","February","13","Mon",0,0,0,0,1,13
+"644","Domestic Disturbance","2023-02-18","2023","February","07","Mon",0,0,0,0,1,13
+"645","Assault Simple","2023-02-18","2023","February","07","Mon",0,0,0,0,1,13
+"646","Suspicious Activity","2023-02-18","2023","February","06","Mon",0,0,0,0,1,13
+"647","Assault Aggravated","2023-02-18","2023","February","05","Mon",0,0,0,0,1,13
+"648","Vandalism","2023-02-18","2023","February","02","Mon",0,0,0,0,1,13
+"649","Vandalism","2023-02-17","2023","February","23","Sun",0,0,0,0,1,14
+"650","Assault Simple","2023-02-17","2023","February","23","Sun",0,0,0,0,1,14
+"651","Larceny - Theft from Building","2023-02-17","2023","February","22","Sun",0,0,0,0,1,14
+"652","Assault Intimidation","2023-02-17","2023","February","22","Sun",0,0,0,0,1,14
+"653","Fraud-impersonation","2023-02-17","2023","February","22","Sun",0,0,0,0,1,14
+"654","Fraud-false pretense","2023-02-17","2023","February","21","Sun",0,0,0,0,1,14
+"655","Larceny - From Motor Vehicle","2023-02-17","2023","February","20","Sun",0,0,0,0,1,14
+"656","Hit and Run","2023-02-17","2023","February","19","Sun",0,0,0,0,1,14
+"657","Hit and Run","2023-02-17","2023","February","12","Sun",0,0,0,0,1,14
+"658","Larceny - From Motor Vehicle","2023-02-17","2023","February","11","Sun",0,0,0,0,1,14
+"659","Assault Simple","2023-02-17","2023","February","07","Sun",0,0,0,0,1,14
+"660","Vandalism","2023-02-17","2023","February","02","Sun",0,0,0,0,1,14
+"661","Burglary","2023-02-17","2023","February","02","Sun",0,0,0,0,1,14
+"662","Larceny - From Motor Vehicle","2023-02-17","2023","February","01","Sun",0,0,0,0,1,14
+"663","Assault Intimidation","2023-02-16","2023","February","23","Sat",0,0,0,0,1,18
+"664","Larceny - Theft from Building","2023-02-16","2023","February","22","Sat",0,0,0,0,1,18
+"665","Hit and Run","2023-02-16","2023","February","22","Sat",0,0,0,0,1,18
+"666","Hit and Run","2023-02-16","2023","February","20","Sat",0,0,0,0,1,18
+"667","Comm Relations Initiative - CRI","2023-02-16","2023","February","20","Sat",0,0,0,0,1,18
+"668","Larceny - Shoplifitng","2023-02-16","2023","February","19","Sat",0,0,0,0,1,18
+"669","Hit and Run","2023-02-16","2023","February","19","Sat",0,0,0,0,1,18
+"670","Suspicious Person","2023-02-16","2023","February","17","Sat",0,0,0,0,1,18
+"671","Fraud-false pretense","2023-02-16","2023","February","17","Sat",0,0,0,0,1,18
+"672","Lost/FoundProperty","2023-02-16","2023","February","13","Sat",0,0,0,0,1,18
+"673","Misc - Criminal Call","2023-02-16","2023","February","12","Sat",0,0,0,0,1,18
+"674","Drug/Narcotics Violation","2023-02-16","2023","February","11","Sat",0,0,0,0,1,18
+"675","Missing Person-juvenile","2023-02-16","2023","February","09","Sat",0,0,0,0,1,18
+"676","Assault Aggravated","2023-02-16","2023","February","06","Sat",0,0,0,0,1,18
+"677","Sex Offense - Forcible Rape","2023-02-16","2023","February","04","Sat",0,0,0,0,1,18
+"678","Stalking","2023-02-16","2023","February","03","Sat",0,0,0,0,1,18
+"679","Fraud-credit card","2023-02-16","2023","February","02","Sat",0,0,0,0,1,18
+"680","Larceny - Shoplifitng","2023-02-16","2023","February","00","Sat",0,0,0,0,1,18
+"681","Accident Property Damage","2023-02-15","2023","February","23","Fri",0,0,0,0,1,16
+"682","Missing Person-juvenile","2023-02-15","2023","February","23","Fri",0,0,0,0,1,16
+"683","Sex Offense-forcible fondling","2023-02-15","2023","February","22","Fri",0,0,0,0,1,16
+"684","Larceny - All Other","2023-02-15","2023","February","21","Fri",0,0,0,0,1,16
+"685","Hit and Run","2023-02-15","2023","February","21","Fri",0,0,0,0,1,16
+"686","Assault Simple","2023-02-15","2023","February","19","Fri",0,0,0,0,1,16
+"687","Disturbance - Non Domestic","2023-02-15","2023","February","17","Fri",0,0,0,0,1,16
+"688","Suspicious Activity","2023-02-15","2023","February","17","Fri",0,0,0,0,1,16
+"689","Fraud-credit card","2023-02-15","2023","February","16","Fri",0,0,0,0,1,16
+"690","Lost/FoundProperty","2023-02-15","2023","February","16","Fri",0,0,0,0,1,16
+"691","Fraud-false pretense","2023-02-15","2023","February","15","Fri",0,0,0,0,1,16
+"692","Assist Citizen - Mental/TDO/ECO","2023-02-15","2023","February","12","Fri",0,0,0,0,1,16
+"693","Larceny - From Motor Vehicle","2023-02-15","2023","February","11","Fri",0,0,0,0,1,16
+"694","Suspicious Activity","2023-02-15","2023","February","03","Fri",0,0,0,0,1,16
+"695","Fraud-false pretense","2023-02-15","2023","February","00","Fri",0,0,0,0,1,16
+"696","Larceny - Shoplifitng","2023-02-15","2023","February","00","Fri",0,0,0,0,1,16
+"697","Larceny - From Motor Vehicle","2023-02-14","2023","February","22","Thurs",0,0,0,0,1,14
+"698","Larceny - All Other","2023-02-14","2023","February","22","Thurs",0,0,0,0,1,14
+"699","Larceny - All Other","2023-02-14","2023","February","19","Thurs",0,0,0,0,1,14
+"700","Suspicious Activity","2023-02-14","2023","February","18","Thurs",0,0,0,0,1,14
+"701","Suspicious Activity","2023-02-14","2023","February","18","Thurs",0,0,0,0,1,14
+"702","Larceny - Theft from Building","2023-02-14","2023","February","18","Thurs",0,0,0,0,1,14
+"703","Vandalism","2023-02-14","2023","February","15","Thurs",0,0,0,0,1,14
+"704","Fraud-wire fraud","2023-02-14","2023","February","15","Thurs",0,0,0,0,1,14
+"705","Assist Citizen - Medical","2023-02-14","2023","February","07","Thurs",0,0,0,0,1,14
+"706","Larceny - Shoplifitng","2023-02-14","2023","February","05","Thurs",0,0,0,0,1,14
+"707","Assist Citizen - Mental/TDO/ECO","2023-02-14","2023","February","03","Thurs",0,0,0,0,1,14
+"708","Larceny - All Other","2023-02-14","2023","February","02","Thurs",0,0,0,0,1,14
+"709","Assault Simple","2023-02-14","2023","February","01","Thurs",0,0,0,0,1,14
+"710","Stalking","2023-02-14","2023","February","01","Thurs",0,0,0,0,1,14
+"711","Assist Agency - Other","2023-02-13","2023","February","23","Wed",0,0,0,0,1,8
+"712","Larceny - Theft from Building","2023-02-13","2023","February","22","Wed",0,0,0,0,1,8
+"713","Accident w/Injuries","2023-02-13","2023","February","21","Wed",0,0,0,0,1,8
+"714","Larceny - Theft from Building","2023-02-13","2023","February","21","Wed",0,0,0,0,1,8
+"715","Unauthorized Use of Motor Veh","2023-02-13","2023","February","19","Wed",0,0,0,0,1,8
+"716","Larceny - Of Veh Parts/Access","2023-02-13","2023","February","17","Wed",0,0,0,0,1,8
+"717","Driving Under the Influence","2023-02-13","2023","February","05","Wed",0,0,0,0,1,8
+"718","Assault Simple","2023-02-13","2023","February","00","Wed",0,0,0,0,1,8
+"719","Harassment","2023-02-12","2023","February","23","Tues",0,0,0,0,1,7
+"720","Animal Complaint","2023-02-12","2023","February","23","Tues",0,0,0,0,1,7
+"721","Vandalism","2023-02-12","2023","February","16","Tues",0,0,0,0,1,7
+"722","Larceny - From Motor Vehicle","2023-02-12","2023","February","15","Tues",0,0,0,0,1,7
+"723","Hit and Run","2023-02-12","2023","February","07","Tues",0,0,0,0,1,7
+"724","Assault Simple","2023-02-12","2023","February","04","Tues",0,0,0,0,1,7
+"725","Shots Fired/Illegal Hunting","2023-02-12","2023","February","03","Tues",1,0,1,0,0,7
+"726","Larceny - Shoplifitng","2023-02-11","2023","February","22","Mon",0,0,0,0,1,13
+"727","Vandalism","2023-02-11","2023","February","20","Mon",0,0,0,0,1,13
+"728","Missing Person-juvenile","2023-02-11","2023","February","19","Mon",0,0,0,0,1,13
+"729","Vandalism","2023-02-11","2023","February","18","Mon",0,0,0,0,1,13
+"730","Assist Citizen - Mental/TDO/ECO","2023-02-11","2023","February","18","Mon",0,0,0,0,1,13
+"731","Hit and Run","2023-02-11","2023","February","17","Mon",0,0,0,0,1,13
+"732","Assault Intimidation","2023-02-11","2023","February","16","Mon",0,0,0,0,1,13
+"733","Trespass","2023-02-11","2023","February","10","Mon",0,0,0,0,1,13
+"734","Hit and Run","2023-02-11","2023","February","07","Mon",0,0,0,0,1,13
+"735","Vandalism","2023-02-11","2023","February","05","Mon",0,0,0,0,1,13
+"736","Assault Aggravated","2023-02-11","2023","February","04","Mon",0,0,0,0,1,13
+"737","Shots Fired/Illegal Hunting","2023-02-11","2023","February","02","Mon",1,0,1,0,0,13
+"738","Suspicious Activity","2023-02-11","2023","February","00","Mon",0,0,0,0,1,13
+"739","Assault Simple","2023-02-10","2023","February","23","Sun",0,0,0,0,1,19
+"740","Suspicious Activity","2023-02-10","2023","February","22","Sun",0,0,0,0,1,19
+"741","Suspicious Activity","2023-02-10","2023","February","20","Sun",0,0,0,0,1,19
+"742","Misc - Criminal Call","2023-02-10","2023","February","20","Sun",0,0,0,0,1,19
+"743","Hit and Run","2023-02-10","2023","February","19","Sun",0,0,0,0,1,19
+"744","Assist Citizen - Misc","2023-02-10","2023","February","19","Sun",0,0,0,0,1,19
+"745","Assault Simple","2023-02-10","2023","February","19","Sun",0,0,0,0,1,19
+"746","Larceny - From Motor Vehicle","2023-02-10","2023","February","19","Sun",0,0,0,0,1,19
+"747","Vandalism","2023-02-10","2023","February","18","Sun",0,0,0,0,1,19
+"748","Burglary","2023-02-10","2023","February","18","Sun",0,0,0,0,1,19
+"749","Larceny - All Other","2023-02-10","2023","February","17","Sun",0,0,0,0,1,19
+"750","Suspicious Activity","2023-02-10","2023","February","15","Sun",0,0,0,0,1,19
+"751","Suspicious Activity","2023-02-10","2023","February","14","Sun",0,0,0,0,1,19
+"752","Larceny - Of Veh Parts/Access","2023-02-10","2023","February","13","Sun",0,0,0,0,1,19
+"753","Trespass","2023-02-10","2023","February","06","Sun",0,0,0,0,1,19
+"754","Driving Under the Influence","2023-02-10","2023","February","06","Sun",0,0,0,0,1,19
+"755","Assault Simple","2023-02-10","2023","February","04","Sun",0,0,0,0,1,19
+"756","Vandalism","2023-02-10","2023","February","03","Sun",0,0,0,0,1,19
+"757","Suspicious Activity","2023-02-10","2023","February","02","Sun",0,0,0,0,1,19
+"758","Hit and Run","2023-02-09","2023","February","22","Sat",0,0,0,0,1,12
+"759","Drug/Narcotics Violation","2023-02-09","2023","February","22","Sat",0,0,0,0,1,12
+"760","Harassment","2023-02-09","2023","February","17","Sat",0,0,0,0,1,12
+"761","Death Investigation - DOA","2023-02-09","2023","February","17","Sat",0,0,0,0,1,12
+"762","Hit and Run","2023-02-09","2023","February","16","Sat",0,0,0,0,1,12
+"763","Hit and Run","2023-02-09","2023","February","16","Sat",0,0,0,0,1,12
+"764","Suspicious Activity","2023-02-09","2023","February","16","Sat",0,0,0,0,1,12
+"765","Suspicious Activity","2023-02-09","2023","February","15","Sat",0,0,0,0,1,12
+"766","Suspicious Activity","2023-02-09","2023","February","14","Sat",0,0,0,0,1,12
+"767","Hit and Run","2023-02-09","2023","February","11","Sat",0,0,0,0,1,12
+"768","Disturbance - Non Domestic","2023-02-09","2023","February","10","Sat",0,0,0,0,1,12
+"769","Vandalism","2023-02-09","2023","February","02","Sat",0,0,0,0,1,12
+"770","Motor Vehicle Theft","2023-02-08","2023","February","23","Fri",0,0,0,0,1,15
+"771","Larceny - All Other","2023-02-08","2023","February","21","Fri",0,0,0,0,1,15
+"772","Larceny - From Motor Vehicle","2023-02-08","2023","February","20","Fri",0,0,0,0,1,15
+"773","Crime Prevent Initiative - CPI","2023-02-08","2023","February","20","Fri",0,0,0,0,1,15
+"774","Hit and Run","2023-02-08","2023","February","20","Fri",0,0,0,0,1,15
+"775","Larceny - Shoplifitng","2023-02-08","2023","February","19","Fri",0,0,0,0,1,15
+"776","Motor Vehicle Theft","2023-02-08","2023","February","17","Fri",0,0,0,0,1,15
+"777","Misc - Criminal Call","2023-02-08","2023","February","12","Fri",0,0,0,0,1,15
+"778","Death Investigation - DOA","2023-02-08","2023","February","11","Fri",0,0,0,0,1,15
+"779","Traffic Stops","2023-02-08","2023","February","05","Fri",0,0,0,0,1,15
+"780","Assault Aggravated","2023-02-08","2023","February","05","Fri",0,0,0,0,1,15
+"781","Assault Simple","2023-02-08","2023","February","05","Fri",0,0,0,0,1,15
+"782","Larceny - From Motor Vehicle","2023-02-08","2023","February","02","Fri",0,0,0,0,1,15
+"783","Drug Investigation","2023-02-08","2023","February","01","Fri",0,0,0,0,1,15
+"784","Larceny - Shoplifitng","2023-02-08","2023","February","01","Fri",0,0,0,0,1,15
+"785","Domestic Disturbance","2023-02-07","2023","February","23","Thurs",0,0,0,0,1,19
+"786","Larceny - From Motor Vehicle","2023-02-07","2023","February","22","Thurs",0,0,0,0,1,19
+"787","Larceny - Of Veh Parts/Access","2023-02-07","2023","February","20","Thurs",0,0,0,0,1,19
+"788","Assist Citizen - Mental/TDO/ECO","2023-02-07","2023","February","20","Thurs",0,0,0,0,1,19
+"789","Larceny - All Other","2023-02-07","2023","February","20","Thurs",0,0,0,0,1,19
+"790","Lost/FoundProperty","2023-02-07","2023","February","19","Thurs",0,0,0,0,1,19
+"791","Accident w/Injuries","2023-02-07","2023","February","19","Thurs",0,0,0,0,1,19
+"792","Larceny - All Other","2023-02-07","2023","February","18","Thurs",0,0,0,0,1,19
+"793","Suspicious Activity","2023-02-07","2023","February","18","Thurs",0,0,0,0,1,19
+"794","Harassment","2023-02-07","2023","February","17","Thurs",0,0,0,0,1,19
+"795","Suspicious Activity","2023-02-07","2023","February","14","Thurs",0,0,0,0,1,19
+"796","Larceny - Theft from Building","2023-02-07","2023","February","14","Thurs",0,0,0,0,1,19
+"797","Missing Person-juvenile","2023-02-07","2023","February","14","Thurs",0,0,0,0,1,19
+"798","Fraud-impersonation","2023-02-07","2023","February","13","Thurs",0,0,0,0,1,19
+"799","Larceny - All Other","2023-02-07","2023","February","13","Thurs",0,0,0,0,1,19
+"800","Assist Citizen - Mental/TDO/ECO","2023-02-07","2023","February","05","Thurs",0,0,0,0,1,19
+"801","Assault Simple","2023-02-07","2023","February","04","Thurs",0,0,0,0,1,19
+"802","Driving Under the Influence","2023-02-07","2023","February","04","Thurs",0,0,0,0,1,19
+"803","Suspicious Activity","2023-02-07","2023","February","03","Thurs",0,0,0,0,1,19
+"804","Warrant Service","2023-02-06","2023","February","22","Wed",0,0,0,0,1,16
+"805","Motor Vehicle Theft","2023-02-06","2023","February","22","Wed",0,0,0,0,1,16
+"806","Disorderly Conduct","2023-02-06","2023","February","19","Wed",0,0,0,0,1,16
+"807","Hit and Run","2023-02-06","2023","February","18","Wed",0,0,0,0,1,16
+"808","Assault Simple","2023-02-06","2023","February","18","Wed",0,0,0,0,1,16
+"809","Death Investigation - DOA","2023-02-06","2023","February","18","Wed",0,0,0,0,1,16
+"810","Death Investigation - DOA","2023-02-06","2023","February","18","Wed",0,0,0,0,1,16
+"811","Hit and Run","2023-02-06","2023","February","17","Wed",0,0,0,0,1,16
+"812","Vandalism","2023-02-06","2023","February","15","Wed",0,0,0,0,1,16
+"813","Assault Simple","2023-02-06","2023","February","14","Wed",0,0,0,0,1,16
+"814","Assault Simple","2023-02-06","2023","February","06","Wed",0,0,0,0,1,16
+"815","Traffic Stops","2023-02-06","2023","February","04","Wed",0,0,0,0,1,16
+"816","Driving Under the Influence","2023-02-06","2023","February","04","Wed",0,0,0,0,1,16
+"817","Assault Simple","2023-02-06","2023","February","01","Wed",0,0,0,0,1,16
+"818","Assault Simple","2023-02-06","2023","February","01","Wed",0,0,0,0,1,16
+"819","Missing Person-juvenile","2023-02-06","2023","February","00","Wed",0,0,0,0,1,16
+"820","Assist Citizen - Mental/TDO/ECO","2023-02-05","2023","February","23","Tues",0,0,0,0,1,8
+"821","Larceny - Theft from Building","2023-02-05","2023","February","21","Tues",0,0,0,0,1,8
+"822","Assault Simple","2023-02-05","2023","February","18","Tues",0,0,0,0,1,8
+"823","Assault Intimidation","2023-02-05","2023","February","17","Tues",0,0,0,0,1,8
+"824","Prowler - Peeping  Tom","2023-02-05","2023","February","15","Tues",0,0,0,0,1,8
+"825","Lost/FoundProperty","2023-02-05","2023","February","13","Tues",0,0,0,0,1,8
+"826","Assault Aggravated","2023-02-05","2023","February","01","Tues",0,0,0,0,1,8
+"827","Robbery - Armed","2023-02-05","2023","February","00","Tues",0,0,0,0,1,8
+"828","Animal Complaint","2023-02-04","2023","February","23","Mon",0,0,0,0,1,14
+"829","Hit and Run","2023-02-04","2023","February","22","Mon",0,0,0,0,1,14
+"830","Assist Citizen - Mental/TDO/ECO","2023-02-04","2023","February","22","Mon",0,0,0,0,1,14
+"831","Larceny - Shoplifitng","2023-02-04","2023","February","20","Mon",0,0,0,0,1,14
+"832","Larceny - All Other","2023-02-04","2023","February","20","Mon",0,0,0,0,1,14
+"833","Hit and Run","2023-02-04","2023","February","19","Mon",0,0,0,0,1,14
+"834","Death Investigation - DOA","2023-02-04","2023","February","18","Mon",0,0,0,0,1,14
+"835","Assault Simple","2023-02-04","2023","February","16","Mon",0,0,0,0,1,14
+"836","Missing Person-juvenile","2023-02-04","2023","February","12","Mon",0,0,0,0,1,14
+"837","Assault Simple","2023-02-04","2023","February","06","Mon",0,0,0,0,1,14
+"838","Assist Citizen - Mental/TDO/ECO","2023-02-04","2023","February","05","Mon",0,0,0,0,1,14
+"839","Assist Citizen - Mental/TDO/ECO","2023-02-04","2023","February","04","Mon",0,0,0,0,1,14
+"840","Assist Citizen - Mental/TDO/ECO","2023-02-04","2023","February","03","Mon",0,0,0,0,1,14
+"841","Hit and Run","2023-02-04","2023","February","03","Mon",0,0,0,0,1,14
+"842","Hit and Run","2023-02-03","2023","February","22","Sun",0,0,0,0,1,18
+"843","Vandalism","2023-02-03","2023","February","21","Sun",0,0,0,0,1,18
+"844","Assist Citizen - Mental/TDO/ECO","2023-02-03","2023","February","20","Sun",0,0,0,0,1,18
+"845","Larceny - Theft from Building","2023-02-03","2023","February","18","Sun",0,0,0,0,1,18
+"846","Accident - w/out Injuries","2023-02-03","2023","February","18","Sun",0,0,0,0,1,18
+"847","Larceny - Theft from Building","2023-02-03","2023","February","18","Sun",0,0,0,0,1,18
+"848","Larceny - Theft from Building","2023-02-03","2023","February","17","Sun",0,0,0,0,1,18
+"849","Warrant Service","2023-02-03","2023","February","17","Sun",0,0,0,0,1,18
+"850","Assault Simple","2023-02-03","2023","February","16","Sun",0,0,0,0,1,18
+"851","Larceny - Shoplifitng","2023-02-03","2023","February","16","Sun",0,0,0,0,1,18
+"852","Motor Vehicle Theft","2023-02-03","2023","February","16","Sun",0,0,0,0,1,18
+"853","Lost/FoundProperty","2023-02-03","2023","February","05","Sun",0,0,0,0,1,18
+"854","Misc - Criminal Call","2023-02-03","2023","February","04","Sun",0,0,0,0,1,18
+"855","Sex Offense - Forcible Rape","2023-02-03","2023","February","04","Sun",0,0,0,0,1,18
+"856","Shots Fired/Illegal Hunting","2023-02-03","2023","February","03","Sun",1,0,1,0,0,18
+"857","Assault Aggravated","2023-02-03","2023","February","03","Sun",0,0,0,0,1,18
+"858","Larceny - Theft from Building","2023-02-03","2023","February","02","Sun",0,0,0,0,1,18
+"859","Larceny - From Motor Vehicle","2023-02-03","2023","February","02","Sun",0,0,0,0,1,18
+"860","Hit and Run","2023-02-02","2023","February","23","Sat",0,0,0,0,1,10
+"861","Death Investigation - DOA","2023-02-02","2023","February","21","Sat",0,0,0,0,1,10
+"862","Assault Simple","2023-02-02","2023","February","21","Sat",0,0,0,0,1,10
+"863","Assist Citizen - Mental/TDO/ECO","2023-02-02","2023","February","20","Sat",0,0,0,0,1,10
+"864","Hit and Run","2023-02-02","2023","February","14","Sat",0,0,0,0,1,10
+"865","Misc - Non-Criminal Call","2023-02-02","2023","February","13","Sat",0,0,0,0,1,10
+"866","Fraud-welfare","2023-02-02","2023","February","13","Sat",0,0,0,0,1,10
+"867","Hit and Run","2023-02-02","2023","February","13","Sat",0,0,0,0,1,10
+"868","Driving Under the Influence","2023-02-02","2023","February","06","Sat",0,0,0,0,1,10
+"869","Animal Complaint","2023-02-02","2023","February","06","Sat",0,0,0,0,1,10
+"870","Burglary","2023-02-01","2023","February","23","Fri",0,0,0,0,1,16
+"871","Fraud-impersonation","2023-02-01","2023","February","21","Fri",0,0,0,0,1,16
+"872","Hit and Run","2023-02-01","2023","February","19","Fri",0,0,0,0,1,16
+"873","Fraud-false pretense","2023-02-01","2023","February","18","Fri",0,0,0,0,1,16
+"874","Vandalism","2023-02-01","2023","February","17","Fri",0,0,0,0,1,16
+"875","Disorderly Conduct","2023-02-01","2023","February","15","Fri",0,0,0,0,1,16
+"876","Assist Citizen - Mental/TDO/ECO","2023-02-01","2023","February","13","Fri",0,0,0,0,1,16
+"877","Larceny - From Motor Vehicle","2023-02-01","2023","February","13","Fri",0,0,0,0,1,16
+"878","Larceny - Shoplifitng","2023-02-01","2023","February","12","Fri",0,0,0,0,1,16
+"879","Suspicious Person","2023-02-01","2023","February","12","Fri",0,0,0,0,1,16
+"880","Larceny - From Motor Vehicle","2023-02-01","2023","February","10","Fri",0,0,0,0,1,16
+"881","Suspicious Activity","2023-02-01","2023","February","06","Fri",0,0,0,0,1,16
+"882","Shots Fired/Illegal Hunting","2023-02-01","2023","February","04","Fri",1,0,1,0,0,16
+"883","Traffic Stops","2023-02-01","2023","February","03","Fri",0,0,0,0,1,16
+"884","Assault Intimidation","2023-02-01","2023","February","02","Fri",0,0,0,0,1,16
+"885","Misc - Criminal Call","2023-02-01","2023","February","00","Fri",0,0,0,0,1,16
+"886","Suspicious Activity","2023-01-31","2023","January","23","Thurs",0,0,0,0,1,13
+"887","Pornography","2023-01-31","2023","January","22","Thurs",0,0,0,0,1,13
+"888","Stalking","2023-01-31","2023","January","19","Thurs",0,0,0,0,1,13
+"889","Assault Simple","2023-01-31","2023","January","19","Thurs",0,0,0,0,1,13
+"890","Larceny - Theft from Building","2023-01-31","2023","January","17","Thurs",0,0,0,0,1,13
+"891","Larceny - Theft from Building","2023-01-31","2023","January","16","Thurs",0,0,0,0,1,13
+"892","Assault Simple","2023-01-31","2023","January","16","Thurs",0,0,0,0,1,13
+"893","Pornography","2023-01-31","2023","January","15","Thurs",0,0,0,0,1,13
+"894","Assault Simple","2023-01-31","2023","January","14","Thurs",0,0,0,0,1,13
+"895","Driving Under the Influence","2023-01-31","2023","January","09","Thurs",0,0,0,0,1,13
+"896","Shots Fired/Illegal Hunting","2023-01-31","2023","January","04","Thurs",1,0,1,0,0,13
+"897","Assault Intimidation","2023-01-31","2023","January","03","Thurs",0,0,0,0,1,13
+"898","Larceny - Theft from Building","2023-01-31","2023","January","01","Thurs",0,0,0,0,1,13
+"899","Harassment","2023-01-30","2023","January","23","Wed",0,0,0,0,1,15
+"900","Disorderly Conduct","2023-01-30","2023","January","22","Wed",0,0,0,0,1,15
+"901","Larceny - From Motor Vehicle","2023-01-30","2023","January","21","Wed",0,0,0,0,1,15
+"902","Hit and Run","2023-01-30","2023","January","21","Wed",0,0,0,0,1,15
+"903","Suspicious Activity","2023-01-30","2023","January","20","Wed",0,0,0,0,1,15
+"904","Assist Citizen - Welfare Check","2023-01-30","2023","January","20","Wed",0,0,0,0,1,15
+"905","Fraud-false pretense","2023-01-30","2023","January","19","Wed",0,0,0,0,1,15
+"906","Accident w/Injuries","2023-01-30","2023","January","19","Wed",0,0,0,0,1,15
+"907","Suspicious Activity","2023-01-30","2023","January","17","Wed",0,0,0,0,1,15
+"908","Comm Relations Initiative - CRI","2023-01-30","2023","January","15","Wed",0,0,0,0,1,15
+"909","Death Investigation - DOA","2023-01-30","2023","January","15","Wed",0,0,0,0,1,15
+"910","Hit and Run","2023-01-30","2023","January","13","Wed",0,0,0,0,1,15
+"911","Assault Simple","2023-01-30","2023","January","06","Wed",0,0,0,0,1,15
+"912","Motor Vehicle Theft","2023-01-30","2023","January","04","Wed",0,0,0,0,1,15
+"913","Harassment","2023-01-30","2023","January","02","Wed",0,0,0,0,1,15
+"914","Hit and Run","2023-01-29","2023","January","20","Tues",0,0,0,0,1,6
+"915","Hit and Run","2023-01-29","2023","January","17","Tues",0,0,0,0,1,6
+"916","Suspicious Activity","2023-01-29","2023","January","13","Tues",0,0,0,0,1,6
+"917","Assist Citizen - Mental/TDO/ECO","2023-01-29","2023","January","12","Tues",0,0,0,0,1,6
+"918","Assault Simple","2023-01-29","2023","January","09","Tues",0,0,0,0,1,6
+"919","Larceny - Shoplifitng","2023-01-29","2023","January","03","Tues",0,0,0,0,1,6
+"920","Larceny - From Motor Vehicle","2023-01-28","2023","January","23","Mon",0,0,0,0,1,14
+"921","Warrant Service","2023-01-28","2023","January","22","Mon",0,0,0,0,1,14
+"922","Larceny - Shoplifitng","2023-01-28","2023","January","20","Mon",0,0,0,0,1,14
+"923","Missing Person-adult","2023-01-28","2023","January","17","Mon",0,0,0,0,1,14
+"924","Larceny - All Other","2023-01-28","2023","January","16","Mon",0,0,0,0,1,14
+"925","Larceny - All Other","2023-01-28","2023","January","16","Mon",0,0,0,0,1,14
+"926","Larceny - Shoplifitng","2023-01-28","2023","January","15","Mon",0,0,0,0,1,14
+"927","Larceny - Theft from Building","2023-01-28","2023","January","15","Mon",0,0,0,0,1,14
+"928","Burglary","2023-01-28","2023","January","15","Mon",0,0,0,0,1,14
+"929","Harassment","2023-01-28","2023","January","14","Mon",0,0,0,0,1,14
+"930","Harassment","2023-01-28","2023","January","13","Mon",0,0,0,0,1,14
+"931","Hit and Run","2023-01-28","2023","January","13","Mon",0,0,0,0,1,14
+"932","Missing Person-adult","2023-01-28","2023","January","07","Mon",0,0,0,0,1,14
+"933","Suspicious Activity","2023-01-28","2023","January","02","Mon",0,0,0,0,1,14
+"934","Larceny - Theft from Building","2023-01-27","2023","January","23","Sun",0,0,0,0,1,18
+"935","Lost/FoundProperty","2023-01-27","2023","January","23","Sun",0,0,0,0,1,18
+"936","Larceny - From Motor Vehicle","2023-01-27","2023","January","20","Sun",0,0,0,0,1,18
+"937","Missing Person-juvenile","2023-01-27","2023","January","20","Sun",0,0,0,0,1,18
+"938","Larceny - Shoplifitng","2023-01-27","2023","January","20","Sun",0,0,0,0,1,18
+"939","Larceny - Theft from Building","2023-01-27","2023","January","19","Sun",0,0,0,0,1,18
+"940","Burglary","2023-01-27","2023","January","18","Sun",0,0,0,0,1,18
+"941","Vandalism","2023-01-27","2023","January","17","Sun",0,0,0,0,1,18
+"942","Weapons Violations","2023-01-27","2023","January","16","Sun",0,0,0,0,1,18
+"943","Fraud-credit card","2023-01-27","2023","January","16","Sun",0,0,0,0,1,18
+"944","Hit and Run","2023-01-27","2023","January","15","Sun",0,0,0,0,1,18
+"945","Larceny - From Motor Vehicle","2023-01-27","2023","January","11","Sun",0,0,0,0,1,18
+"946","Vandalism","2023-01-27","2023","January","10","Sun",0,0,0,0,1,18
+"947","Suspicious Activity","2023-01-27","2023","January","08","Sun",0,0,0,0,1,18
+"948","Larceny - All Other","2023-01-27","2023","January","01","Sun",0,0,0,0,1,18
+"949","Larceny - Theft from Building","2023-01-27","2023","January","01","Sun",0,0,0,0,1,18
+"950","Assist Citizen - Mental/TDO/ECO","2023-01-27","2023","January","00","Sun",0,0,0,0,1,18
+"951","Larceny - All Other","2023-01-27","2023","January","00","Sun",0,0,0,0,1,18
+"952","Assault Simple","2023-01-26","2023","January","23","Sat",0,0,0,0,1,17
+"953","Hit and Run","2023-01-26","2023","January","22","Sat",0,0,0,0,1,17
+"954","Missing Person-juvenile","2023-01-26","2023","January","21","Sat",0,0,0,0,1,17
+"955","Accident - w/out Injuries","2023-01-26","2023","January","21","Sat",0,0,0,0,1,17
+"956","Suspicious Activity","2023-01-26","2023","January","20","Sat",0,0,0,0,1,17
+"957","Disorderly Conduct","2023-01-26","2023","January","20","Sat",0,0,0,0,1,17
+"958","Assault Intimidation","2023-01-26","2023","January","19","Sat",0,0,0,0,1,17
+"959","Hit and Run","2023-01-26","2023","January","18","Sat",0,0,0,0,1,17
+"960","Hit and Run","2023-01-26","2023","January","16","Sat",0,0,0,0,1,17
+"961","Suspicious Person","2023-01-26","2023","January","15","Sat",0,0,0,0,1,17
+"962","Vandalism","2023-01-26","2023","January","15","Sat",0,0,0,0,1,17
+"963","Suspicious Activity","2023-01-26","2023","January","14","Sat",0,0,0,0,1,17
+"964","Hit and Run","2023-01-26","2023","January","14","Sat",0,0,0,0,1,17
+"965","Attemped Suicide","2023-01-26","2023","January","02","Sat",0,0,0,0,1,17
+"966","Larceny - Theft from Building","2023-01-26","2023","January","02","Sat",0,0,0,0,1,17
+"967","Vandalism","2023-01-26","2023","January","02","Sat",0,0,0,0,1,17
+"968","Hit and Run","2023-01-26","2023","January","00","Sat",0,0,0,0,1,17
+"969","Vandalism","2023-01-25","2023","January","20","Fri",0,0,0,0,1,8
+"970","Missing Person-juvenile","2023-01-25","2023","January","19","Fri",0,0,0,0,1,8
+"971","Vandalism","2023-01-25","2023","January","18","Fri",0,0,0,0,1,8
+"972","Lost/FoundProperty","2023-01-25","2023","January","18","Fri",0,0,0,0,1,8
+"973","Fraud-false pretense","2023-01-25","2023","January","15","Fri",0,0,0,0,1,8
+"974","Harassment","2023-01-25","2023","January","15","Fri",0,0,0,0,1,8
+"975","Hit and Run","2023-01-25","2023","January","05","Fri",0,0,0,0,1,8
+"976","Larceny - From Motor Vehicle","2023-01-25","2023","January","03","Fri",0,0,0,0,1,8
+"977","Assault Simple","2023-01-24","2023","January","22","Thurs",0,0,0,0,1,13
+"978","Hit and Run","2023-01-24","2023","January","21","Thurs",0,0,0,0,1,13
+"979","Larceny - Shoplifitng","2023-01-24","2023","January","21","Thurs",0,0,0,0,1,13
+"980","Hit and Run","2023-01-24","2023","January","17","Thurs",0,0,0,0,1,13
+"981","Assault Simple","2023-01-24","2023","January","16","Thurs",0,0,0,0,1,13
+"982","Crime Prevent Initiative - CPI","2023-01-24","2023","January","15","Thurs",0,0,0,0,1,13
+"983","Missing Person-juvenile","2023-01-24","2023","January","12","Thurs",0,0,0,0,1,13
+"984","Lost/FoundProperty","2023-01-24","2023","January","12","Thurs",0,0,0,0,1,13
+"985","Assault Aggravated","2023-01-24","2023","January","05","Thurs",0,0,0,0,1,13
+"986","Motor Vehicle Theft","2023-01-24","2023","January","03","Thurs",0,0,0,0,1,13
+"987","Assault Aggravated","2023-01-24","2023","January","03","Thurs",0,0,0,0,1,13
+"988","Vandalism","2023-01-24","2023","January","01","Thurs",0,0,0,0,1,13
+"989","Motor Vehicle Theft","2023-01-24","2023","January","00","Thurs",0,0,0,0,1,13
+"990","Larceny - Shoplifitng","2023-01-23","2023","January","23","Wed",0,0,0,0,1,8
+"991","Harassment","2023-01-23","2023","January","22","Wed",0,0,0,0,1,8
+"992","Harassment","2023-01-23","2023","January","21","Wed",0,0,0,0,1,8
+"993","Fraud-wire fraud","2023-01-23","2023","January","17","Wed",0,0,0,0,1,8
+"994","Lost/FoundProperty","2023-01-23","2023","January","16","Wed",0,0,0,0,1,8
+"995","Larceny - From Motor Vehicle","2023-01-23","2023","January","14","Wed",0,0,0,0,1,8
+"996","Vandalism","2023-01-23","2023","January","13","Wed",0,0,0,0,1,8
+"997","Driving Under the Influence","2023-01-23","2023","January","05","Wed",0,0,0,0,1,8
+"998","Robbery - Armed","2023-01-22","2023","January","23","Tues",0,0,0,0,1,13
+"999","Hit and Run","2023-01-22","2023","January","23","Tues",0,0,0,0,1,13
+"1000","Trespass","2023-01-22","2023","January","22","Tues",0,0,0,0,1,13
+"1001","Hit and Run","2023-01-22","2023","January","20","Tues",0,0,0,0,1,13
+"1002","Misc - Non-Criminal Call","2023-01-22","2023","January","20","Tues",0,0,0,0,1,13
+"1003","Assist Citizen - Mental/TDO/ECO","2023-01-22","2023","January","20","Tues",0,0,0,0,1,13
+"1004","Vandalism","2023-01-22","2023","January","20","Tues",0,0,0,0,1,13
+"1005","Crime Prevent Initiative - CPI","2023-01-22","2023","January","18","Tues",0,0,0,0,1,13
+"1006","Drunkeness DIP","2023-01-22","2023","January","16","Tues",0,0,0,0,1,13
+"1007","Sex Offense - Forcible Sodomy","2023-01-22","2023","January","09","Tues",0,0,0,0,1,13
+"1008","Drug Investigation","2023-01-22","2023","January","06","Tues",0,0,0,0,1,13
+"1009","Assist Citizen - Mental/TDO/ECO","2023-01-22","2023","January","05","Tues",0,0,0,0,1,13
+"1010","Assist Citizen - Mental/TDO/ECO","2023-01-22","2023","January","00","Tues",0,0,0,0,1,13
+"1011","Drug Investigation","2023-01-21","2023","January","21","Mon",0,0,0,0,1,14
+"1012","Fraud-impersonation","2023-01-21","2023","January","20","Mon",0,0,0,0,1,14
+"1013","Larceny - Shoplifitng","2023-01-21","2023","January","19","Mon",0,0,0,0,1,14
+"1014","Assault Aggravated","2023-01-21","2023","January","18","Mon",0,0,0,0,1,14
+"1015","Lost/FoundProperty","2023-01-21","2023","January","17","Mon",0,0,0,0,1,14
+"1016","Weapons Violations","2023-01-21","2023","January","15","Mon",0,0,0,0,1,14
+"1017","Larceny - From Motor Vehicle","2023-01-21","2023","January","15","Mon",0,0,0,0,1,14
+"1018","Animal - Bite","2023-01-21","2023","January","14","Mon",0,0,0,0,1,14
+"1019","Lost/FoundProperty","2023-01-21","2023","January","11","Mon",0,0,0,0,1,14
+"1020","Vandalism","2023-01-21","2023","January","08","Mon",0,0,0,0,1,14
+"1021","Assist Citizen - Mental/TDO/ECO","2023-01-21","2023","January","06","Mon",0,0,0,0,1,14
+"1022","Disturbance - Non Domestic","2023-01-21","2023","January","05","Mon",0,0,0,0,1,14
+"1023","Larceny - Shoplifitng","2023-01-21","2023","January","02","Mon",0,0,0,0,1,14
+"1024","Larceny - Shoplifitng","2023-01-21","2023","January","02","Mon",0,0,0,0,1,14
+"1025","Driving Under the Influence","2023-01-20","2023","January","23","Sun",0,0,0,0,1,14
+"1026","Suspicious Activity","2023-01-20","2023","January","21","Sun",0,0,0,0,1,14
+"1027","Assault Aggravated","2023-01-20","2023","January","17","Sun",0,0,0,0,1,14
+"1028","Hit and Run","2023-01-20","2023","January","17","Sun",0,0,0,0,1,14
+"1029","Larceny - Theft from Building","2023-01-20","2023","January","16","Sun",0,0,0,0,1,14
+"1030","Vandalism","2023-01-20","2023","January","15","Sun",0,0,0,0,1,14
+"1031","Larceny - Of Veh Parts/Access","2023-01-20","2023","January","15","Sun",0,0,0,0,1,14
+"1032","Forgery/Counterfeiting","2023-01-20","2023","January","14","Sun",0,0,0,0,1,14
+"1033","Vandalism","2023-01-20","2023","January","12","Sun",0,0,0,0,1,14
+"1034","Larceny - From Motor Vehicle","2023-01-20","2023","January","11","Sun",0,0,0,0,1,14
+"1035","Burglary","2023-01-20","2023","January","09","Sun",0,0,0,0,1,14
+"1036","Assist Citizen - Mental/TDO/ECO","2023-01-20","2023","January","06","Sun",0,0,0,0,1,14
+"1037","Drug Investigation","2023-01-20","2023","January","04","Sun",0,0,0,0,1,14
+"1038","Larceny - Shoplifitng","2023-01-20","2023","January","00","Sun",0,0,0,0,1,14
+"1039","Larceny - Theft from Building","2023-01-19","2023","January","22","Sat",0,0,0,0,1,21
+"1040","Forgery/Counterfeiting","2023-01-19","2023","January","22","Sat",0,0,0,0,1,21
+"1041","Hit and Run","2023-01-19","2023","January","20","Sat",0,0,0,0,1,21
+"1042","Larceny - Theft from Building","2023-01-19","2023","January","20","Sat",0,0,0,0,1,21
+"1043","Domestic Disturbance","2023-01-19","2023","January","18","Sat",0,0,0,0,1,21
+"1044","Suspicious Activity","2023-01-19","2023","January","18","Sat",0,0,0,0,1,21
+"1045","Harassment","2023-01-19","2023","January","17","Sat",0,0,0,0,1,21
+"1046","Larceny - From Motor Vehicle","2023-01-19","2023","January","16","Sat",0,0,0,0,1,21
+"1047","Motor Vehicle Theft","2023-01-19","2023","January","15","Sat",0,0,0,0,1,21
+"1048","Larceny - From Motor Vehicle","2023-01-19","2023","January","15","Sat",0,0,0,0,1,21
+"1049","Larceny - Of Veh Parts/Access","2023-01-19","2023","January","15","Sat",0,0,0,0,1,21
+"1050","Vandalism","2023-01-19","2023","January","15","Sat",0,0,0,0,1,21
+"1051","Larceny - All Other","2023-01-19","2023","January","13","Sat",0,0,0,0,1,21
+"1052","Forgery/Counterfeiting","2023-01-19","2023","January","13","Sat",0,0,0,0,1,21
+"1053","Harassment","2023-01-19","2023","January","12","Sat",0,0,0,0,1,21
+"1054","Larceny - From Motor Vehicle","2023-01-19","2023","January","12","Sat",0,0,0,0,1,21
+"1055","Assault Intimidation","2023-01-19","2023","January","03","Sat",0,0,0,0,1,21
+"1056","Forgery/Counterfeiting","2023-01-19","2023","January","01","Sat",0,0,0,0,1,21
+"1057","Assist Citizen - Mental/TDO/ECO","2023-01-19","2023","January","00","Sat",0,0,0,0,1,21
+"1058","Assault Simple","2023-01-19","2023","January","00","Sat",0,0,0,0,1,21
+"1059","Hit and Run","2023-01-19","2023","January","00","Sat",0,0,0,0,1,21
+"1060","Larceny - From Motor Vehicle","2023-01-18","2023","January","23","Fri",0,0,0,0,1,19
+"1061","Vandalism","2023-01-18","2023","January","23","Fri",0,0,0,0,1,19
+"1062","Assault Aggravated","2023-01-18","2023","January","22","Fri",0,0,0,0,1,19
+"1063","Larceny - From Motor Vehicle","2023-01-18","2023","January","20","Fri",0,0,0,0,1,19
+"1064","Harassment","2023-01-18","2023","January","20","Fri",0,0,0,0,1,19
+"1065","Suspicious Activity","2023-01-18","2023","January","19","Fri",0,0,0,0,1,19
+"1066","Vandalism","2023-01-18","2023","January","19","Fri",0,0,0,0,1,19
+"1067","Lost/FoundProperty","2023-01-18","2023","January","19","Fri",0,0,0,0,1,19
+"1068","Suspicious Activity","2023-01-18","2023","January","19","Fri",0,0,0,0,1,19
+"1069","Fraud-wire fraud","2023-01-18","2023","January","18","Fri",0,0,0,0,1,19
+"1070","Larceny - Of Veh Parts/Access","2023-01-18","2023","January","14","Fri",0,0,0,0,1,19
+"1071","Harassment","2023-01-18","2023","January","13","Fri",0,0,0,0,1,19
+"1072","Lost/FoundProperty","2023-01-18","2023","January","12","Fri",0,0,0,0,1,19
+"1073","Larceny - Shoplifitng","2023-01-18","2023","January","11","Fri",0,0,0,0,1,19
+"1074","Assist Citizen - Mental/TDO/ECO","2023-01-18","2023","January","05","Fri",0,0,0,0,1,19
+"1075","Suspicious Activity","2023-01-18","2023","January","03","Fri",0,0,0,0,1,19
+"1076","Larceny - Of Veh Parts/Access","2023-01-18","2023","January","02","Fri",0,0,0,0,1,19
+"1077","Suspicious Activity","2023-01-18","2023","January","02","Fri",0,0,0,0,1,19
+"1078","Assault Simple","2023-01-18","2023","January","00","Fri",0,0,0,0,1,19
+"1079","Family Offense - Non-Violent","2023-01-17","2023","January","23","Thurs",0,0,0,0,1,19
+"1080","Assault Simple","2023-01-17","2023","January","22","Thurs",0,0,0,0,1,19
+"1081","Larceny - Theft from Building","2023-01-17","2023","January","21","Thurs",0,0,0,0,1,19
+"1082","Larceny - Theft from Building","2023-01-17","2023","January","21","Thurs",0,0,0,0,1,19
+"1083","Domestic Disturbance","2023-01-17","2023","January","20","Thurs",0,0,0,0,1,19
+"1084","Fraud-credit card","2023-01-17","2023","January","20","Thurs",0,0,0,0,1,19
+"1085","Larceny - Theft from Building","2023-01-17","2023","January","19","Thurs",0,0,0,0,1,19
+"1086","Assault Simple","2023-01-17","2023","January","19","Thurs",0,0,0,0,1,19
+"1087","Larceny - From Motor Vehicle","2023-01-17","2023","January","18","Thurs",0,0,0,0,1,19
+"1088","Assist Citizen - Mental/TDO/ECO","2023-01-17","2023","January","18","Thurs",0,0,0,0,1,19
+"1089","Fraud-impersonation","2023-01-17","2023","January","15","Thurs",0,0,0,0,1,19
+"1090","Larceny - Shoplifitng","2023-01-17","2023","January","14","Thurs",0,0,0,0,1,19
+"1091","Misc - Criminal Call","2023-01-17","2023","January","14","Thurs",0,0,0,0,1,19
+"1092","Drunkeness DIP","2023-01-17","2023","January","06","Thurs",0,0,0,0,1,19
+"1093","Driving Under the Influence","2023-01-17","2023","January","04","Thurs",0,0,0,0,1,19
+"1094","Larceny - Theft from Building","2023-01-17","2023","January","03","Thurs",0,0,0,0,1,19
+"1095","Larceny - Theft from Building","2023-01-17","2023","January","01","Thurs",0,0,0,0,1,19
+"1096","Larceny - Theft from Building","2023-01-17","2023","January","01","Thurs",0,0,0,0,1,19
+"1097","Larceny - Theft from Building","2023-01-17","2023","January","00","Thurs",0,0,0,0,1,19
+"1098","Shots Fired/Illegal Hunting","2023-01-16","2023","January","21","Wed",1,0,1,0,0,14
+"1099","Larceny - Theft from Building","2023-01-16","2023","January","20","Wed",0,0,0,0,1,14
+"1100","Suspicious Activity","2023-01-16","2023","January","19","Wed",0,0,0,0,1,14
+"1101","Harassment","2023-01-16","2023","January","19","Wed",0,0,0,0,1,14
+"1102","Larceny - From Motor Vehicle","2023-01-16","2023","January","19","Wed",0,0,0,0,1,14
+"1103","Shots Fired/Illegal Hunting","2023-01-16","2023","January","17","Wed",1,0,1,0,0,14
+"1104","Larceny - Theft from Building","2023-01-16","2023","January","17","Wed",0,0,0,0,1,14
+"1105","Harassment","2023-01-16","2023","January","17","Wed",0,0,0,0,1,14
+"1106","Larceny - All Other","2023-01-16","2023","January","15","Wed",0,0,0,0,1,14
+"1107","Larceny - Theft from Building","2023-01-16","2023","January","14","Wed",0,0,0,0,1,14
+"1108","Fraud-credit card","2023-01-16","2023","January","14","Wed",0,0,0,0,1,14
+"1109","Death Investigation - DOA","2023-01-16","2023","January","13","Wed",0,0,0,0,1,14
+"1110","Robbery - Armed","2023-01-16","2023","January","01","Wed",0,0,0,0,1,14
+"1111","Burglary","2023-01-16","2023","January","01","Wed",0,0,0,0,1,14
+"1112","Disorderly Conduct","2023-01-15","2023","January","21","Tues",0,0,0,0,1,11
+"1113","Disorderly Conduct","2023-01-15","2023","January","19","Tues",0,0,0,0,1,11
+"1114","Assault Simple","2023-01-15","2023","January","19","Tues",0,0,0,0,1,11
+"1115","Larceny - All Other","2023-01-15","2023","January","18","Tues",0,0,0,0,1,11
+"1116","Assault Simple","2023-01-15","2023","January","18","Tues",0,0,0,0,1,11
+"1117","Motor Vehicle Theft","2023-01-15","2023","January","17","Tues",0,0,0,0,1,11
+"1118","Larceny - Theft from Building","2023-01-15","2023","January","17","Tues",0,0,0,0,1,11
+"1119","Lost/FoundProperty","2023-01-15","2023","January","15","Tues",0,0,0,0,1,11
+"1120","Assault Simple","2023-01-15","2023","January","14","Tues",0,0,0,0,1,11
+"1121","Vandalism","2023-01-15","2023","January","00","Tues",0,0,0,0,1,11
+"1122","Hit and Run","2023-01-15","2023","January","00","Tues",0,0,0,0,1,11
+"1123","Disorderly Conduct","2023-01-14","2023","January","21","Mon",0,0,0,0,1,9
+"1124","Motor Vehicle Theft","2023-01-14","2023","January","20","Mon",0,0,0,0,1,9
+"1125","Larceny - All Other","2023-01-14","2023","January","19","Mon",0,0,0,0,1,9
+"1126","Larceny - Of Veh Parts/Access","2023-01-14","2023","January","18","Mon",0,0,0,0,1,9
+"1127","Hit and Run","2023-01-14","2023","January","17","Mon",0,0,0,0,1,9
+"1128","Vandalism","2023-01-14","2023","January","11","Mon",0,0,0,0,1,9
+"1129","Traffic Stops","2023-01-14","2023","January","06","Mon",0,0,0,0,1,9
+"1130","Larceny - From Motor Vehicle","2023-01-14","2023","January","03","Mon",0,0,0,0,1,9
+"1131","Hit and Run","2023-01-14","2023","January","02","Mon",0,0,0,0,1,9
+"1132","Fraud-false pretense","2023-01-13","2023","January","23","Sun",0,0,0,0,1,22
+"1133","Harassment","2023-01-13","2023","January","22","Sun",0,0,0,0,1,22
+"1134","Vandalism","2023-01-13","2023","January","20","Sun",0,0,0,0,1,22
+"1135","Disorderly Conduct","2023-01-13","2023","January","20","Sun",0,0,0,0,1,22
+"1136","Larceny - From Motor Vehicle","2023-01-13","2023","January","20","Sun",0,0,0,0,1,22
+"1137","Fraud-impersonation","2023-01-13","2023","January","18","Sun",0,0,0,0,1,22
+"1138","Misc - Criminal Call","2023-01-13","2023","January","17","Sun",0,0,0,0,1,22
+"1139","Larceny - Theft from Building","2023-01-13","2023","January","17","Sun",0,0,0,0,1,22
+"1140","Burglary","2023-01-13","2023","January","16","Sun",0,0,0,0,1,22
+"1141","Suspicious Activity","2023-01-13","2023","January","16","Sun",0,0,0,0,1,22
+"1142","Fraud-wire fraud","2023-01-13","2023","January","16","Sun",0,0,0,0,1,22
+"1143","Lost/FoundProperty","2023-01-13","2023","January","16","Sun",0,0,0,0,1,22
+"1144","Larceny - Theft from Building","2023-01-13","2023","January","15","Sun",0,0,0,0,1,22
+"1145","Lost/FoundProperty","2023-01-13","2023","January","15","Sun",0,0,0,0,1,22
+"1146","Larceny - From Motor Vehicle","2023-01-13","2023","January","14","Sun",0,0,0,0,1,22
+"1147","Suspicious Activity","2023-01-13","2023","January","12","Sun",0,0,0,0,1,22
+"1148","Motor Vehicle Theft","2023-01-13","2023","January","12","Sun",0,0,0,0,1,22
+"1149","Missing Person-juvenile","2023-01-13","2023","January","09","Sun",0,0,0,0,1,22
+"1150","Sex Offense - Forcible Rape","2023-01-13","2023","January","07","Sun",0,0,0,0,1,22
+"1151","Assault Simple","2023-01-13","2023","January","04","Sun",0,0,0,0,1,22
+"1152","Accident w/Injuries","2023-01-13","2023","January","03","Sun",0,0,0,0,1,22
+"1153","Assist Citizen - Mental/TDO/ECO","2023-01-13","2023","January","01","Sun",0,0,0,0,1,22
+"1154","Larceny - Theft from Building","2023-01-12","2023","January","23","Sat",0,0,0,0,1,14
+"1155","Hit and Run","2023-01-12","2023","January","21","Sat",0,0,0,0,1,14
+"1156","Weapons Violations","2023-01-12","2023","January","21","Sat",0,0,0,0,1,14
+"1157","Hit and Run","2023-01-12","2023","January","18","Sat",0,0,0,0,1,14
+"1158","Lost/FoundProperty","2023-01-12","2023","January","17","Sat",0,0,0,0,1,14
+"1159","Assault Simple","2023-01-12","2023","January","16","Sat",0,0,0,0,1,14
+"1160","Pornography","2023-01-12","2023","January","15","Sat",0,0,0,0,1,14
+"1161","Hit and Run","2023-01-12","2023","January","14","Sat",0,0,0,0,1,14
+"1162","Vandalism","2023-01-12","2023","January","13","Sat",0,0,0,0,1,14
+"1163","Assist Agency - Other","2023-01-12","2023","January","07","Sat",0,0,0,0,1,14
+"1164","Larceny - Theft from Building","2023-01-12","2023","January","03","Sat",0,0,0,0,1,14
+"1165","Domestic Disturbance","2023-01-12","2023","January","03","Sat",0,0,0,0,1,14
+"1166","Suspicious Activity","2023-01-12","2023","January","02","Sat",0,0,0,0,1,14
+"1167","Larceny - All Other","2023-01-12","2023","January","00","Sat",0,0,0,0,1,14
+"1168","Larceny - From Motor Vehicle","2023-01-11","2023","January","21","Fri",0,0,0,0,1,10
+"1169","Vandalism","2023-01-11","2023","January","13","Fri",0,0,0,0,1,10
+"1170","Suspicious Activity","2023-01-11","2023","January","13","Fri",0,0,0,0,1,10
+"1171","Vandalism","2023-01-11","2023","January","13","Fri",0,0,0,0,1,10
+"1172","Missing Person-juvenile","2023-01-11","2023","January","05","Fri",0,0,0,0,1,10
+"1173","Larceny - Theft from Building","2023-01-11","2023","January","02","Fri",0,0,0,0,1,10
+"1174","Larceny - Theft from Building","2023-01-11","2023","January","01","Fri",0,0,0,0,1,10
+"1175","Fraud-false pretense","2023-01-11","2023","January","01","Fri",0,0,0,0,1,10
+"1176","Animal Complaint","2023-01-11","2023","January","01","Fri",0,0,0,0,1,10
+"1177","Lost/FoundProperty","2023-01-11","2023","January","00","Fri",0,0,0,0,1,10
+"1178","Driving Under the Influence","2023-01-10","2023","January","22","Thurs",0,0,0,0,1,12
+"1179","Hit and Run","2023-01-10","2023","January","20","Thurs",0,0,0,0,1,12
+"1180","Assault Simple","2023-01-10","2023","January","20","Thurs",0,0,0,0,1,12
+"1181","Suspicious Activity","2023-01-10","2023","January","17","Thurs",0,0,0,0,1,12
+"1182","Hit and Run","2023-01-10","2023","January","15","Thurs",0,0,0,0,1,12
+"1183","Assault Intimidation","2023-01-10","2023","January","13","Thurs",0,0,0,0,1,12
+"1184","Assault Intimidation","2023-01-10","2023","January","13","Thurs",0,0,0,0,1,12
+"1185","Vandalism","2023-01-10","2023","January","13","Thurs",0,0,0,0,1,12
+"1186","Hit and Run","2023-01-10","2023","January","05","Thurs",0,0,0,0,1,12
+"1187","Suspicious Activity","2023-01-10","2023","January","04","Thurs",0,0,0,0,1,12
+"1188","Larceny - From Motor Vehicle","2023-01-10","2023","January","03","Thurs",0,0,0,0,1,12
+"1189","Larceny - Shoplifitng","2023-01-10","2023","January","02","Thurs",0,0,0,0,1,12
+"1190","Hit and Run","2023-01-09","2023","January","22","Wed",0,0,0,0,1,21
+"1191","Drug Investigation","2023-01-09","2023","January","21","Wed",0,0,0,0,1,21
+"1192","Harassment","2023-01-09","2023","January","21","Wed",0,0,0,0,1,21
+"1193","Larceny - All Other","2023-01-09","2023","January","21","Wed",0,0,0,0,1,21
+"1194","Accident - w/out Injuries","2023-01-09","2023","January","19","Wed",0,0,0,0,1,21
+"1195","Larceny - Theft from Building","2023-01-09","2023","January","19","Wed",0,0,0,0,1,21
+"1196","Larceny - Theft from Building","2023-01-09","2023","January","19","Wed",0,0,0,0,1,21
+"1197","Animal Complaint","2023-01-09","2023","January","18","Wed",0,0,0,0,1,21
+"1198","Drunkeness DIP","2023-01-09","2023","January","18","Wed",0,0,0,0,1,21
+"1199","Lost/FoundProperty","2023-01-09","2023","January","18","Wed",0,0,0,0,1,21
+"1200","Larceny - All Other","2023-01-09","2023","January","17","Wed",0,0,0,0,1,21
+"1201","Larceny - Theft from Building","2023-01-09","2023","January","17","Wed",0,0,0,0,1,21
+"1202","Stolen Property Offenses","2023-01-09","2023","January","17","Wed",0,0,0,0,1,21
+"1203","Assault Simple","2023-01-09","2023","January","14","Wed",0,0,0,0,1,21
+"1204","Larceny - Theft from Building","2023-01-09","2023","January","14","Wed",0,0,0,0,1,21
+"1205","Accident - w/out Injuries","2023-01-09","2023","January","14","Wed",0,0,0,0,1,21
+"1206","Larceny - Theft from Building","2023-01-09","2023","January","14","Wed",0,0,0,0,1,21
+"1207","Larceny - From Motor Vehicle","2023-01-09","2023","January","14","Wed",0,0,0,0,1,21
+"1208","Burglary","2023-01-09","2023","January","11","Wed",0,0,0,0,1,21
+"1209","Domestic Disturbance","2023-01-09","2023","January","03","Wed",0,0,0,0,1,21
+"1210","Hit and Run","2023-01-09","2023","January","03","Wed",0,0,0,0,1,21
+"1211","Homicide-murder/non-negligent","2023-01-08","2023","January","18","Tues",0,0,0,0,1,8
+"1212","Vandalism","2023-01-08","2023","January","15","Tues",0,0,0,0,1,8
+"1213","Burglary","2023-01-08","2023","January","08","Tues",0,0,0,0,1,8
+"1214","Larceny - Theft from Building","2023-01-08","2023","January","02","Tues",0,0,0,0,1,8
+"1215","Driving Under the Influence","2023-01-08","2023","January","02","Tues",0,0,0,0,1,8
+"1216","Larceny - All Other","2023-01-08","2023","January","02","Tues",0,0,0,0,1,8
+"1217","Death Investigation - DOA","2023-01-08","2023","January","02","Tues",0,0,0,0,1,8
+"1218","Larceny - Shoplifitng","2023-01-08","2023","January","01","Tues",0,0,0,0,1,8
+"1219","Vandalism","2023-01-07","2023","January","20","Mon",0,0,0,0,1,9
+"1220","Misc - Criminal Call","2023-01-07","2023","January","20","Mon",0,0,0,0,1,9
+"1221","Assist Citizen - Mental/TDO/ECO","2023-01-07","2023","January","18","Mon",0,0,0,0,1,9
+"1222","Burglary","2023-01-07","2023","January","13","Mon",0,0,0,0,1,9
+"1223","Burglary","2023-01-07","2023","January","07","Mon",0,0,0,0,1,9
+"1224","Driving Under the Influence","2023-01-07","2023","January","04","Mon",0,0,0,0,1,9
+"1225","Assist Agency - Backup/Assist","2023-01-07","2023","January","03","Mon",0,0,0,0,1,9
+"1226","Fraud-false pretense","2023-01-07","2023","January","03","Mon",0,0,0,0,1,9
+"1227","Assist Citizen - Mental/TDO/ECO","2023-01-07","2023","January","00","Mon",0,0,0,0,1,9
+"1228","Larceny - Shoplifitng","2023-01-06","2023","January","23","Sun",0,0,0,0,1,13
+"1229","Drunkeness DIP","2023-01-06","2023","January","23","Sun",0,0,0,0,1,13
+"1230","Larceny - Theft from Building","2023-01-06","2023","January","23","Sun",0,0,0,0,1,13
+"1231","Hit and Run","2023-01-06","2023","January","23","Sun",0,0,0,0,1,13
+"1232","Assault Intimidation","2023-01-06","2023","January","22","Sun",0,0,0,0,1,13
+"1233","Larceny - Theft from Building","2023-01-06","2023","January","21","Sun",0,0,0,0,1,13
+"1234","Larceny - Theft from Building","2023-01-06","2023","January","21","Sun",0,0,0,0,1,13
+"1235","Accident - w/out Injuries","2023-01-06","2023","January","19","Sun",0,0,0,0,1,13
+"1236","Assist Citizen - Mental/TDO/ECO","2023-01-06","2023","January","18","Sun",0,0,0,0,1,13
+"1237","Fraud-false pretense","2023-01-06","2023","January","16","Sun",0,0,0,0,1,13
+"1238","Larceny - All Other","2023-01-06","2023","January","16","Sun",0,0,0,0,1,13
+"1239","Larceny - From Motor Vehicle","2023-01-06","2023","January","15","Sun",0,0,0,0,1,13
+"1240","Shots Fired/Illegal Hunting","2023-01-06","2023","January","00","Sun",1,0,1,0,0,13
+"1241","Larceny - Of Veh Parts/Access","2023-01-05","2023","January","19","Sat",0,0,0,0,1,10
+"1242","Hit and Run","2023-01-05","2023","January","18","Sat",0,0,0,0,1,10
+"1243","Suspicious Activity","2023-01-05","2023","January","17","Sat",0,0,0,0,1,10
+"1244","Larceny - Theft from Building","2023-01-05","2023","January","16","Sat",0,0,0,0,1,10
+"1245","Fraud-false pretense","2023-01-05","2023","January","16","Sat",0,0,0,0,1,10
+"1246","Lost/FoundProperty","2023-01-05","2023","January","15","Sat",0,0,0,0,1,10
+"1247","Assault Simple","2023-01-05","2023","January","10","Sat",0,0,0,0,1,10
+"1248","Larceny - From Motor Vehicle","2023-01-05","2023","January","03","Sat",0,0,0,0,1,10
+"1249","Hit and Run","2023-01-05","2023","January","02","Sat",0,0,0,0,1,10
+"1250","Missing Person-adult","2023-01-05","2023","January","00","Sat",0,0,0,0,1,10
+"1251","Burglary","2023-01-04","2023","January","22","Fri",0,0,0,0,1,21
+"1252","Assist Citizen - Mental/TDO/ECO","2023-01-04","2023","January","21","Fri",0,0,0,0,1,21
+"1253","Hit and Run","2023-01-04","2023","January","20","Fri",0,0,0,0,1,21
+"1254","Pornography","2023-01-04","2023","January","19","Fri",0,0,0,0,1,21
+"1255","Vandalism","2023-01-04","2023","January","18","Fri",0,0,0,0,1,21
+"1256","Assault Simple","2023-01-04","2023","January","18","Fri",0,0,0,0,1,21
+"1257","Vandalism","2023-01-04","2023","January","17","Fri",0,0,0,0,1,21
+"1258","Larceny - Theft from Building","2023-01-04","2023","January","16","Fri",0,0,0,0,1,21
+"1259","Domestic Disturbance","2023-01-04","2023","January","16","Fri",0,0,0,0,1,21
+"1260","Larceny - From Motor Vehicle","2023-01-04","2023","January","16","Fri",0,0,0,0,1,21
+"1261","Animal - Bite","2023-01-04","2023","January","15","Fri",0,0,0,0,1,21
+"1262","Vandalism","2023-01-04","2023","January","15","Fri",0,0,0,0,1,21
+"1263","Larceny - Of Veh Parts/Access","2023-01-04","2023","January","14","Fri",0,0,0,0,1,21
+"1264","Misc - Criminal Call","2023-01-04","2023","January","14","Fri",0,0,0,0,1,21
+"1265","Larceny - From Motor Vehicle","2023-01-04","2023","January","14","Fri",0,0,0,0,1,21
+"1266","Disorderly Conduct","2023-01-04","2023","January","13","Fri",0,0,0,0,1,21
+"1267","Larceny - From Motor Vehicle","2023-01-04","2023","January","12","Fri",0,0,0,0,1,21
+"1268","Vandalism","2023-01-04","2023","January","12","Fri",0,0,0,0,1,21
+"1269","Larceny - From Motor Vehicle","2023-01-04","2023","January","11","Fri",0,0,0,0,1,21
+"1270","Hit and Run","2023-01-04","2023","January","05","Fri",0,0,0,0,1,21
+"1271","Vandalism","2023-01-04","2023","January","03","Fri",0,0,0,0,1,21
+"1272","Warrant Service","2023-01-03","2023","January","23","Thurs",0,0,0,0,1,13
+"1273","Larceny - Of Veh Parts/Access","2023-01-03","2023","January","19","Thurs",0,0,0,0,1,13
+"1274","Accident Private Property","2023-01-03","2023","January","19","Thurs",0,0,0,0,1,13
+"1275","Larceny - Shoplifitng","2023-01-03","2023","January","18","Thurs",0,0,0,0,1,13
+"1276","Larceny - All Other","2023-01-03","2023","January","17","Thurs",0,0,0,0,1,13
+"1277","Harassment","2023-01-03","2023","January","16","Thurs",0,0,0,0,1,13
+"1278","Assault Simple","2023-01-03","2023","January","16","Thurs",0,0,0,0,1,13
+"1279","Suspicious Activity","2023-01-03","2023","January","15","Thurs",0,0,0,0,1,13
+"1280","Suspicious Activity","2023-01-03","2023","January","14","Thurs",0,0,0,0,1,13
+"1281","Burglary","2023-01-03","2023","January","12","Thurs",0,0,0,0,1,13
+"1282","Assault Simple","2023-01-03","2023","January","07","Thurs",0,0,0,0,1,13
+"1283","Assault Simple","2023-01-03","2023","January","05","Thurs",0,0,0,0,1,13
+"1284","Assault Simple","2023-01-03","2023","January","04","Thurs",0,0,0,0,1,13
+"1285","Larceny - All Other","2023-01-02","2023","January","22","Wed",0,0,0,0,1,8
+"1286","Hit and Run","2023-01-02","2023","January","21","Wed",0,0,0,0,1,8
+"1287","Accident w/Injuries","2023-01-02","2023","January","20","Wed",0,0,0,0,1,8
+"1288","Fraud-impersonation","2023-01-02","2023","January","19","Wed",0,0,0,0,1,8
+"1289","Larceny - From Motor Vehicle","2023-01-02","2023","January","15","Wed",0,0,0,0,1,8
+"1290","Hit and Run","2023-01-02","2023","January","14","Wed",0,0,0,0,1,8
+"1291","Suspicious Activity","2023-01-02","2023","January","12","Wed",0,0,0,0,1,8
+"1292","Drunkeness DIP","2023-01-02","2023","January","01","Wed",0,0,0,0,1,8
+"1293","Lost/FoundProperty","2023-01-01","2023","January","23","Tues",0,0,0,0,1,10
+"1294","Trespass","2023-01-01","2023","January","23","Tues",0,0,0,0,1,10
+"1295","Hit and Run","2023-01-01","2023","January","17","Tues",0,0,0,0,1,10
+"1296","Vandalism","2023-01-01","2023","January","17","Tues",0,0,0,0,1,10
+"1297","Hit and Run","2023-01-01","2023","January","12","Tues",0,0,0,0,1,10
+"1298","Driving Under the Influence","2023-01-01","2023","January","11","Tues",0,0,0,0,1,10
+"1299","Disorderly Conduct","2023-01-01","2023","January","10","Tues",0,0,0,0,1,10
+"1300","Suicide Investigation","2023-01-01","2023","January","08","Tues",0,0,0,0,1,10
+"1301","Driving Under the Influence","2023-01-01","2023","January","07","Tues",0,0,0,0,1,10
+"1302","Assault Simple","2023-01-01","2023","January","05","Tues",0,0,0,0,1,10
