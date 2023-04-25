@@ -59,4 +59,9 @@ Our crime data is provided by the government of Charlottesville’s open data we
 ‌
 [6] “The Box-Jenkins Method,” NCSS Statistical Software, 2022. [Online]. Available: https://www.ncss.com/wp-content/themes/ncss/pdf/Procedures/NCSS/The_Box-Jenkins_Method.pdf 
 
+Other references (MI1 and MI2):
+
+MI1: https://docs.google.com/document/d/13PjMZVyNhJi_jd1iSg7fO03yUrhf7XINnQREhpVjisU/edit?usp=sharing
+
+MI2: https://docs.google.com/document/d/1AkBk71_wfUbzRLdBDCf5SNVCZVCgDRP-O24vu1a_qoo/edit?usp=sharing 
 
